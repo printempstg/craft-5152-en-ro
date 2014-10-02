@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adverse reactions</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104823Z" creationid="alex" creationdate="20141002T104823Z">
+        <seg>Reacţii adverse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After SURGICEL FIBRILLAR Haemostat has been saturated with blood, it swells into a brownish or black gelatinous mass which aids in the formation of a clot, thereby serving as a haemostatic adjunct in the control of local haemorrhage.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T100029Z" creationid="alex" creationdate="20141002T100029Z">
@@ -122,6 +130,22 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T142724Z" creationid="alex" creationdate="20140917T142724Z">
         <seg>Toate acele, cu excepţia celor bicolore care sunt etichetate cu RMN sunt magnetizabile și, prin urmare, nu trebuie utilizate în câmp magnetic activ. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also stinging when SURGICEL FIBRILLAR Haemostat was applied on surface wounds (varicose ulcerations, dermabrasions and donor sites) have been reported.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104929Z" creationid="alex" creationdate="20141002T104929Z">
+        <seg>De asemenea, au fost raportate senzaţii de usturime atunci când hemostaticul SURGICEL FIBRILLAR a fost aplicat pe leziuni de suprafaţă (ulceraţii varicoase, abraziune cutanată și situri-donor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although it has not been established that the stenosis was directly related to the use of SURGICEL FIBRILLAR Haemostat, it is important to be cautious and avoid applying the material tightly as a wrapping.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104836Z" creationid="alex" creationdate="20141002T104836Z">
+        <seg>Deși nu s-a stabilit existenţa unei relaţii directe între stenoză și utilizarea materialului hemostatic SURGICEL FIBRILLAR, este importantă păstrarea unei atitudini precaute și evitarea aplicării strânse a materialului în cazul utilizării pentru înfășurare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +186,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140216Z" creationid="alex" creationdate="20140917T140216Z">
         <seg>Număr de lot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blindness has been reported in connection with surgical repair of a lacerated left frontal lobe when SURGICEL FIBRILLAR Haemostat was placed in the anterior cranial fossa (see Warnings and Precautions).</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104854Z" creationid="alex" creationdate="20141002T104854Z">
+        <seg>Au fost raportate cazuri de orbire asociată cu procedurile de reparaţie chirurgicală a lobului frontal stâng dilacerat, atunci când hemostaticul SURGICEL FIBRILLAR a fost plasat în fosa craniană anterioară (A se consulta Avertismente și Precauţii).</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not re-sterilise.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105025Z" creationid="alex" creationdate="20141002T105025Z">
+        <seg>Nu resterilizaţi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not resterilize!</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140125Z" creationid="alex" creationdate="20140917T140125Z">
@@ -282,6 +322,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140202Z" creationid="alex" creationdate="20140917T140202Z">
         <seg>A nu se reutiliza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not use SURGICEL FIBRILLAR Haemostat after this date.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105044Z" creationid="alex" creationdate="20141002T105044Z">
+        <seg>Nu utilizaţi hemostaticul SURGICEL FIBRILLAR după această dată .</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not use if individual pack damaged/opened.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105014Z" creationid="alex" creationdate="20141002T105014Z">
+        <seg>A nu se utiliza dacă ambalajul individual este desfăcut/deteriorat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not use if package is opened or damaged!</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140127Z" creationid="alex" creationdate="20140917T140127Z">
@@ -314,6 +370,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T142735Z" creationid="alex" creationdate="20140917T142735Z">
         <seg>A nu se utiliza dacă ambalajul este deteriorat sau deschis!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dosage and administration</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104936Z" creationid="alex" creationdate="20141002T104936Z">
+        <seg>Doze și administrare</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure 2.B.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104809Z" creationid="alex" creationdate="20141002T104809Z">
+        <seg>Figura 2.B. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For virgin silk the sericin gum is not removed and holds the twisted filaments together.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135806Z" creationid="alex" creationdate="20140917T135806Z">
@@ -442,6 +514,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135934Z" creationid="alex" creationdate="20140917T135934Z">
         <seg>Prinderea acului de zona vârfului poate afecta capacitatea sa de penetrare și poate determina ruperea acestuia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Headache, burning, stinging and sneezing in epistaxis and other rhinological procedures.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104925Z" creationid="alex" creationdate="20141002T104925Z">
+        <seg>Cefalee, arsuri, usturimi și strănut în epistaxis și alte proceduri rinologice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,10 +606,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manufacturer</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105057Z" creationid="alex" creationdate="20141002T105057Z">
+        <seg>Producător</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Method of sterilization: Irradiation</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140207Z" creationid="alex" creationdate="20140917T140207Z">
         <seg>Metoda de sterilizare: Iradiere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimal amounts of SURGICEL FIBRILLAR Haemostat in appropriate size are laid on the bleeding site or held firmly against the tissues until haemostasis is obtained.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104945Z" creationid="alex" creationdate="20141002T104945Z">
+        <seg>Se așează cantităţi minime de material hemostatic SURGICEL FIBRILLAR, tăiat la dimensiunea adecvată, pe zona de sângerare sau se ţin apăsate cu fermitate pe ţesuturi până când se obţine hemostaza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moistening the material with water or physiological saline solution is not recommended. </seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104957Z" creationid="alex" creationdate="20141002T104957Z">
+        <seg>Nu se recomandă umezirea materialului cu apă sau cu soluţie salină fiziologică.</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SURGICEL FIBRILLAR Haemostat should be stored dry under controlled conditions (15°C-30°C) and protected from direct sunlight, in the original packaging.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105009Z" creationid="alex" creationdate="20141002T105009Z">
+        <seg>Hemostaticul SURGICEL FIBRILLAR trebuie păstrat în stare uscată, în condiţii de control al temperaturii (15 °C–30 °C) și ferit de lumina solară directă, în ambalajul original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SURGICEL™ FIBRILLAR Absorbable Haemostat is a sterile absorbable fibrous material prepared by the controlled oxidation of regenerated cellulose.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T095907Z" creationid="alex" creationdate="20141002T095907Z">
@@ -750,6 +862,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Single use</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105054Z" creationid="alex" creationdate="20141002T105054Z">
+        <seg>De unică utilizare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slowly push the grasping instrument and material into the cavity.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104803Z" creationid="alex" creationdate="20141002T104803Z">
+        <seg>Împingeţi încet instrumentul de prindere și materialul în cavitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard endoscopic procedures should be used up to the point of placement of the absorbable haemostat.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T104732Z" creationid="alex" creationdate="20141002T104732Z">
@@ -758,10 +886,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sterile technique should be observed in removing SURGICEL FIBRILLAR Haemostat from its sterile container.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104940Z" creationid="alex" creationdate="20141002T104940Z">
+        <seg>Hemostaticul SURGICEL FIBRILLAR se va scoate din ambalajul său steril utilizând o tehnică sterilă.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sterile unless package is damaged or opened.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140206Z" creationid="alex" creationdate="20140917T140206Z">
         <seg>Steril dacă ambalajul nu este desfăcut sau deteriorat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sterile.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105109Z" creationid="alex" creationdate="20141002T105109Z">
+        <seg>Steril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Storage and shelf-life</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105005Z" creationid="alex" creationdate="20141002T105005Z">
+        <seg>Depozitare și termen de valabilitate</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The amount required depends on the nature and intensity of the haemorrhage to be stopped.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104949Z" creationid="alex" creationdate="20141002T104949Z">
+        <seg>Cantitatea necesară depinde de natura și de intensitatea hemoragiei care trebuie oprită.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The elasticity of ETHILOOP™ allows it to be tightened in a controlled way without injuring the tissue involved.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T142625Z" creationid="alex" creationdate="20140917T142625Z">
@@ -818,6 +978,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T095939Z" creationid="alex" creationdate="20141002T095939Z">
         <seg>Forma fibrilară a produsului îi permite chirurgului să prindă cu pensa orice cantitate de material hemostatic SURGICEL FIBRILLAR necesară obţinerii hemostazei într-o anumită zonă de sângerare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The haemostatic effect of SURGICEL FIBRILLAR Haemostat is particularly pronounced when used dry.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104953Z" creationid="alex" creationdate="20141002T104953Z">
+        <seg>Efectul hemostatic al hemostaticului SURGICEL FIBRILLAR este mai pronunţat atunci când acesta este utilizat în stare uscată.</seg>
       </tuv>
     </tu>
     <tu>
@@ -846,10 +1014,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The supplied SURGICEL FIBRILLAR Haemostat is available sterile as an original pack in variable sizes.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105031Z" creationid="alex" creationdate="20141002T105031Z">
+        <seg>Hemostaticul SURGICEL FIBRILLAR este furnizat steril în ambalajul original în diferite dimensiuni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The use by date of this product is printed on the packaging.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105035Z" creationid="alex" creationdate="20141002T105035Z">
+        <seg>Termenul de valabilitate al acestui produs este tipărit pe ambalaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The use of this suture is contraindicated in patients with known sensitivities or allergies to Silk.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135903Z" creationid="alex" creationdate="20140917T135903Z">
         <seg>Este contraindicată utilizarea acestor fire de sutură la pacienţii cunoscuţi cu sensibilitate sau alergie la mătase. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There has been one report of a blocked ureter after kidney resection, in which postoperative catheterization was required.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104905Z" creationid="alex" creationdate="20141002T104905Z">
+        <seg>S-a raportat un caz de blocaj ureteral după rezecţia renală, caz în care a fost necesară cateterizarea postoperatorie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -897,6 +1089,14 @@
         <seg>Use by – year and month</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140204Z" creationid="alex" creationdate="20140917T140204Z">
+        <seg>A se utiliza până la – anul și luna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use by—year and month</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105100Z" creationid="alex" creationdate="20141002T105100Z">
         <seg>A se utiliza până la – anul și luna</seg>
       </tuv>
     </tu>
@@ -962,6 +1162,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T100035Z" creationid="alex" creationdate="20141002T100035Z">
         <seg>Dacă este utilizat în mod adecvat în cantităţi minime, hemostaticul SURGICEL FIBRILLAR este absorbit de la locul de implantare practic fără reacţie tisulară.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While most of these reports have been in connection with laminectomy, reports of paralysis have also been received in connection with other procedures.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104847Z" creationid="alex" creationdate="20141002T104847Z">
+        <seg>Deși majoritatea acestor cazuri au fost asociate cu proceduri de laminectomie, au fost raportate și cazuri de paralizie asociate cu alte proceduri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>»With the use of grasping instruments in a second and/or third auxiliary site, placement can be made and the material positioned in place.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104815Z" creationid="alex" creationdate="20141002T104815Z">
+        <seg>Folosind graspere printr-un al doilea și/sau al treilea punct suplimentar de acces, se poate finaliza plasarea și materialul poate fi poziţionat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>– STERILE –</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T142556Z" creationid="alex" creationdate="20140917T142556Z">
@@ -1086,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>• »Burning has been reported when SURGICEL FIBRILLAR Haemostat was applied after nasal polyp removal and after haemorrhoidectomy.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104919Z" creationid="alex" creationdate="20141002T104919Z">
+        <seg>•»Au fost raportate senzaţii de arsură atunci când hemostaticul SURGICEL FIBRILLAR a fost aplicat în urma rezecţiei polipilor nazali și după hemoroidectomie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>• »Care should be taken not to apply SURGICEL FIBRILLAR Haemostat too tightly when it is used as a wrap during vascular surgery (see Adverse Reactions).</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T104657Z" creationid="alex" creationdate="20141002T104657Z">
@@ -1114,6 +1338,30 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T104617Z" creationid="alex" creationdate="20141002T104617Z">
         <seg>•»În procedurile urologice trebuie utilizate cantităţi minime de hemostatic SURGICEL FIBRILLAR și trebuie luate măsuri de precauţie pentru a se evita înfundarea uretrei, ureterului sau a unui cateter cu porţiuni dislocate din produs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>• »Occasional reports of “burning” and “stinging” sensations and sneezing when SURGICEL FIBRILLAR Haemostat has been used as packing in epistaxis, are believed to be due to the low pH of the product.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104912Z" creationid="alex" creationdate="20141002T104912Z">
+        <seg>•»Cazurile ocazionale raportate de apariţie a senzaţiilor de „arsură” și „usturime”, precum și a strănutului în cazul utilizării hemostaticului SURGICEL FIBRILLAR pentru meșaj în epistaxis sunt considerate ca fiind cauzate de pH-ului scăzut al produsului.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>• »Paralysis and nerve damage have been reported when SURGICEL FIBRILLAR Haemostat was used around, in, or in proximity to foramina in bone, areas of bony confine, the spinal cord, and/or the optic nerve and chiasm.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104843Z" creationid="alex" creationdate="20141002T104843Z">
+        <seg>•»Au fost raportate cazuri de paralizii și deteriorări ale nervilor atunci când hemostaticul SURGICEL FIBRILLAR a fost utilizat în, în jurul sau în proximitatea unor foramene osoase, a unor zone închise de elemente osoase, a măduvei spinării și/sau a nervului optic ori chiasmei optice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>• »Possible prolongation of drainage in cholecystectomies and difficulty passing urine per urethra after prostatectomy have been reported.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104859Z" creationid="alex" creationdate="20141002T104859Z">
+        <seg>•»Au fost raportate cazuri de posibile întârzieri ale drenajului în colecistectomii și de dificultate de trecere a urinei prin uretră după prostatectomie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1190,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>• »There have been reports of stenotic effect when SURGICEL FIBRILLAR Haemostat has been applied as a wrap during vascular surgery.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104831Z" creationid="alex" creationdate="20141002T104831Z">
+        <seg>•»S-au raportat cazuri de efecte de stenozare atunci când hemostaticul SURGICEL FIBRILLAR a fost aplicat ca material de înfășurare în cadrul procedurilor de chirurgie vasculară.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>• »Use only as much SURGICEL FIBRILLAR Haemostat as is necessary for haemostasis, holding it firmly in place until bleeding stops.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T104604Z" creationid="alex" creationdate="20141002T104604Z">
@@ -1202,6 +1458,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T102649Z" creationid="alex" creationdate="20141002T102649Z">
         <seg>•»Atunci când se utilizează hemostaticul SURGICEL FIBRILLAR pentru a ajuta la obţinerea hemostazei în, în jurul sau în proximitatea unor foramene osoase, a unor zone închise de elemente osoase, a măduvei spinării sau a nervului optic ori chiasmei optice, acesta trebuie întotdeauna îndepărtat după obţinerea hemostazei întrucât se va umfla și poate exercita o presiune nedorită. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>• »“Encapsulation” of fluid and foreign body reactions have been reported.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104827Z" creationid="alex" creationdate="20141002T104827Z">
+        <seg>•»Au fost raportate cazuri de „încapsulare” de lichid și de reacţii de corp străin.</seg>
       </tuv>
     </tu>
     <tu>
