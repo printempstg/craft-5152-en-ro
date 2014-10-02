@@ -502,10 +502,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SURGICEL FIBRILLAR Haemostat can be used in many areas of surgery, e.g. cardiovascular surgery, haemorrhoidectomy, implantation of vascular prostheses, biopsies, lung operations, surgery to the face and jaw, gastric resection, operations on the throat or nose, liver and gall bladder operations, gynaecological operations, thoracic and abdominal sympathectomies, neurosurgery, especially cerebral operations, thyroid operations, skin transplantations, and treatment of superficial injuries.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100326Z" creationid="alex" creationdate="20141002T100326Z">
+        <seg>Hemostaticul SURGICEL FIBRILLAR poate fi utilizat în multe domenii chirurgicale cum ar fi chirurgia cardiovasculară, hemoroidectomia, implantarea de proteze vasculare, biopsii, intervenţiile la nivel pulmonar, chirurgia maxilo-facială, rezecţia gastrică, proceduri chirurgicale la nivelul gâtului și nasului, intervenţiile la nivelul ficatului și vezicii biliare, intervenţii ginecologice, simpatectomiile toracice și abdominale, neurochirurgia (în special intervenţiile pe creier), operaţiile la nivelul tiroidei, transplantul de piele și tratamentul plăgilor superficiale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SURGICEL FIBRILLAR Haemostat is bactericidal in vitro against strains of species including those of:</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T100102Z" creationid="alex" creationdate="20141002T100102Z">
         <seg>Hemostaticul SURGICEL FIBRILLAR are acţiune bactericidă în condiţii in vitro împotriva tulpinilor aparţinând mai multor specii, printre care următoarele:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SURGICEL FIBRILLAR Haemostat is not, however, an alternative to systemically applied therapeutic or prophylactic antimicrobial agents.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100231Z" creationid="alex" creationdate="20141002T100231Z">
+        <seg>Hemostaticul SURGICEL FIBRILLAR nu reprezintă însă o alternativă la administrarea sistemică, în scop terapeutic sau profilactic, a agenţilor antimicrobieni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +634,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T100127Z" creationid="alex" creationdate="20141002T100127Z">
         <seg>Streptococcus pyogenes grup B»Clostridium tetani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Studies conducted in animals show that SURGICEL FIBRILLAR Haemostat in contrast to other haemostatic agents does not enhance experimental infection.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100225Z" creationid="alex" creationdate="20141002T100225Z">
+        <seg>Studii efectuate pe animale arată că, spre deosebire de alţi agenţi hemostatici, hemostaticul SURGICEL FIBRILLAR nu amplifică infecţia experimentală.</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +826,30 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T100157Z" creationid="alex" creationdate="20141002T100157Z">
         <seg>Staphylococcus aureus rezistent la meticilină (SARM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>methicillin-resistant Staphylococcus epidermidis (MRSE)</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100217Z" creationid="alex" creationdate="20141002T100217Z">
+        <seg>Staphylococcus epidermidis rezistent la meticilină (SERM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>penicillin-resistant Streptococcus pneumoniae (PRSP)</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100204Z" creationid="alex" creationdate="20141002T100204Z">
+        <seg>Streptococcus pneumoniae rezistent la penicilină (SPRP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vancomycin-resistant Enterococcus (VRE)</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100210Z" creationid="alex" creationdate="20141002T100210Z">
+        <seg>Enterococcus rezistent la vancomicină (ERV)</seg>
       </tuv>
     </tu>
     <tu>
