@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(See Warnings and Precautions).</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T102635Z" creationid="alex" creationdate="20141002T102635Z">
+        <seg>(A se consulta secţiunea Avertismente și Precauţii.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(oxidised regenerated cellulose)</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T095848Z" creationid="alex" creationdate="20141002T095848Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135932Z" creationid="alex" creationdate="20140917T135932Z">
         <seg>Manevrarea acelor chirurgicale trebuie realizată cu grijă pentru a evita deteriorările.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contraindications</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T102625Z" creationid="alex" creationdate="20141002T102625Z">
+        <seg>Contraindicaţii</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Indications</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T102553Z" creationid="alex" creationdate="20141002T102553Z">
+        <seg>Indicaţii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instructions for use</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135622Z" creationid="alex" creationdate="20140917T135622Z">
@@ -502,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SURGICEL FIBRILLAR Haemostat can be cut to size for use in endoscopic procedures.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T102612Z" creationid="alex" creationdate="20141002T102612Z">
+        <seg>Hemostaticul SURGICEL FIBRILLAR poate fi tăiat la dimensiunea dorită pentru a fi utilizat în procedurile endoscopice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SURGICEL FIBRILLAR Haemostat can be used in many areas of surgery, e.g. cardiovascular surgery, haemorrhoidectomy, implantation of vascular prostheses, biopsies, lung operations, surgery to the face and jaw, gastric resection, operations on the throat or nose, liver and gall bladder operations, gynaecological operations, thoracic and abdominal sympathectomies, neurosurgery, especially cerebral operations, thyroid operations, skin transplantations, and treatment of superficial injuries.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T100326Z" creationid="alex" creationdate="20141002T100326Z">
@@ -522,6 +554,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T100231Z" creationid="alex" creationdate="20141002T100231Z">
         <seg>Hemostaticul SURGICEL FIBRILLAR nu reprezintă însă o alternativă la administrarea sistemică, în scop terapeutic sau profilactic, a agenţilor antimicrobieni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SURGICEL FIBRILLAR Haemostat is used adjunctively in surgical procedures to assist in the control of capillary, venous, and small arterial haemorrhage when ligation or other conventional methods of control are impractical or ineffective.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T102607Z" creationid="alex" creationdate="20141002T102607Z">
+        <seg>Hemostaticul SURGICEL FIBRILLAR este utilizat ca adjuvant în cadrul procedurilor chirurgicale, cu scopul de a ajuta la controlul hemoragiilor capilare, venoase și arteriolare, acolo unde ligaturarea sau alte metode convenţionale de control al hemoragiei se dovedesc nepractice sau ineficiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,6 +898,30 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T142556Z" creationid="alex" creationdate="20140917T142556Z">
         <seg>– STERIL –</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>• » SURGICEL FIBRILLAR Haemostat should not be used for implantation in bone defects, such as fractures, since there is a possibility of interference with callus formation and a theoretical chance of cyst formation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T102641Z" creationid="alex" creationdate="20141002T102641Z">
+        <seg>•»Hemostaticul SURGICEL FIBRILLAR nu trebuie utilizat pentru implantarea în defecte osoase cum ar fi fracturile, întrucât există posibilitatea ca acesta să interfereze cu formarea calusului osos, teoretic existând șansa formării chisturilor. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>• »Although packing or wadding sometimes is medically necessary, SURGICEL FIBRILLAR Haemostat should not be used in this manner, unless it is to be removed after haemostasis is achieved.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T102630Z" creationid="alex" creationdate="20141002T102630Z">
+        <seg>• »Deși operaţiunile de meșaj sau înfundare sunt uneori necesare din punct de vedere medical, hemostaticul SURGICEL FIBRILLAR nu trebuie utilizat în acest fel decât dacă urmează să fie înlăturat după obţinerea hemostazei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>• »When SURGICEL FIBRILLAR Haemostat is used to help achieve haemostasis in, around, or in proximity to foramina in bone, areas of bony confine, the spinal cord, or the optic nerve and chiasm, it must always be removed after haemostasis is achieved since it will swell and could exert unwanted pressure.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T102649Z" creationid="alex" creationdate="20141002T102649Z">
+        <seg>•»Atunci când se utilizează hemostaticul SURGICEL FIBRILLAR pentru a ajuta la obţinerea hemostazei în, în jurul sau în proximitatea unor foramene osoase, a unor zone închise de elemente osoase, a măduvei spinării sau a nervului optic ori chiasmei optice, acesta trebuie întotdeauna îndepărtat după obţinerea hemostazei întrucât se va umfla și poate exercita o presiune nedorită. </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
