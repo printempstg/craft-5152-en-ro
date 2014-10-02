@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(oxidised regenerated cellulose)</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T095848Z" creationid="alex" creationdate="20141002T095848Z">
+        <seg>(celuloză regenerată oxidată)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A slight discolouration may occur with age, but this does not affect performance.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T095930Z" creationid="alex" creationdate="20141002T095930Z">
+        <seg>Cu timpul poate apărea o ușoară decolorare, însă acest lucru nu îi afectează performanţa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ADVERSE REACTIONS</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140035Z" creationid="alex" creationdate="20140917T140035Z">
@@ -30,10 +46,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Absorption depends upon several factors including the amount used, degree of saturation with blood, and the tissue bed.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100046Z" creationid="alex" creationdate="20141002T100046Z">
+        <seg>Absorbţia depinde de câţiva factori inclusiv cantitatea folosită, gradul de saturare cu sânge și patul tisular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acceptable surgical practice should be followed for the management of infected or contaminated wounds.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135925Z" creationid="alex" creationdate="20140917T135925Z">
         <seg>Pentru tratarea plăgilor infectate sau contaminate trebuie adoptate procedurile chirurgicale acceptate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Actions</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100012Z" creationid="alex" creationdate="20141002T100012Z">
+        <seg>Acţiuni</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,10 +86,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After SURGICEL FIBRILLAR Haemostat has been saturated with blood, it swells into a brownish or black gelatinous mass which aids in the formation of a clot, thereby serving as a haemostatic adjunct in the control of local haemorrhage.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100029Z" creationid="alex" creationdate="20141002T100029Z">
+        <seg>Odată saturat cu sânge, hemostaticul SURGICEL FIBRILLAR se umflă, transformându-se într-o masă gelatinoasă de culoare maronie sau neagră care ajută la formarea unui cheag, servind astfel ca mijloc suplimentar hemostatic la controlarea hemoragiei locale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All needles except bicolor needles labelled with MRI are magnetizable and should therefore not be used in an active magnetic field.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T142724Z" creationid="alex" creationdate="20140917T142724Z">
         <seg>Toate acele, cu excepţia celor bicolore care sunt etichetate cu RMN sunt magnetizabile și, prin urmare, nu trebuie utilizate în câmp magnetic activ. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although it is easy to pull the desired amount of SURGICEL FIBRILLAR Haemostat from the entire supply, the group of selected fibres continue to cohere to one another and application to the bleeding site is easily controlled.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T095950Z" creationid="alex" creationdate="20141002T095950Z">
+        <seg>Deși cantitatea dorită de hemostatic SURGICEL FIBRILLAR poate fi ușor de partiţionat, fibrele din cantitatea selectată continuă să fie unite între ele și aplicarea pe zona de sângerare este ușor de controlat. </seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +186,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135710Z" creationid="alex" creationdate="20140917T135710Z">
         <seg>DESCRIERE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T095858Z" creationid="alex" creationdate="20141002T095858Z">
+        <seg>Descriere</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,10 +382,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to its local haemostatic properties, SURGICEL FIBRILLAR Haemostat is bactericidal in vitro against a wide range of gram positive and gram negative organisms including aerobes and anaerobes.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100051Z" creationid="alex" creationdate="20141002T100051Z">
+        <seg>Pe lângă proprietăţile sale hemostatice locale, hemostaticul SURGICEL FIBRILLAR are acţiune bactericidă în condiţii in vitro împotriva unui spectru larg de microorganisme gram pozitive și gram negative, inclusiv aerobe și anaerobe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instructions for use</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135622Z" creationid="alex" creationdate="20140917T135622Z">
         <seg>Instrucţiuni de utilizare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is stable and should be stored at controlled room temperature.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T095926Z" creationid="alex" creationdate="20141002T095926Z">
+        <seg>Este stabil și trebuie depozitat în condiţii de temperatură controlată a camerei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is strong and can be sutured or cut without fraying.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T095917Z" creationid="alex" creationdate="20141002T095917Z">
+        <seg>Este rezistent și poate fi suturat sau tăiat fără să se destrame.</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +502,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SURGICEL FIBRILLAR Haemostat is bactericidal in vitro against strains of species including those of:</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100102Z" creationid="alex" creationdate="20141002T100102Z">
+        <seg>Hemostaticul SURGICEL FIBRILLAR are acţiune bactericidă în condiţii in vitro împotriva tulpinilor aparţinând mai multor specii, printre care următoarele:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SURGICEL™ FIBRILLAR Absorbable Haemostat is a sterile absorbable fibrous material prepared by the controlled oxidation of regenerated cellulose.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T095907Z" creationid="alex" creationdate="20141002T095907Z">
+        <seg>Hemostaticul absorbabil SURGICEL™ FIBRILLAR este un material fibros absorbabil steril, obţinut prin oxidarea controlată a celulozei regenerate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SUTURE</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T143018Z" creationid="alex" creationdate="20140917T143018Z">
@@ -510,6 +606,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Streptococcus pyogenes Group A »Mycobacterium phlei</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100117Z" creationid="alex" creationdate="20141002T100117Z">
+        <seg>Streptococcus pyogenes grup A »Mycobacterium phlei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Streptococcus pyogenes Group B »Clostridium tetani</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100127Z" creationid="alex" creationdate="20141002T100127Z">
+        <seg>Streptococcus pyogenes grup B»Clostridium tetani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sutures should be selected and implanted depending on patient’s condition, surgical experience, surgical technique and wound size.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135840Z" creationid="alex" creationdate="20140917T135840Z">
@@ -522,6 +634,30 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T142625Z" creationid="alex" creationdate="20140917T142625Z">
         <seg>Elasticitatea ETHILOOP™ permite strângerea acestuia în mod controlat, fără lezarea țesutului implicat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fabric is white with a pale yellow cast and has a faint, caramel-like aroma.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T095912Z" creationid="alex" creationdate="20141002T095912Z">
+        <seg>Materialul este de culoare albă cu o nuanţă pală de galben și are o ușoară aromă de caramel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fibrillar form of the product allows the surgeon to grasp with forceps any amount of SURGICEL FIBRILLAR Haemostat needed to achieve haemostasis at a particular bleeding site.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T095939Z" creationid="alex" creationdate="20141002T095939Z">
+        <seg>Forma fibrilară a produsului îi permite chirurgului să prindă cu pensa orice cantitate de material hemostatic SURGICEL FIBRILLAR necesară obţinerii hemostazei într-o anumită zonă de sângerare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The mechanism of action whereby SURGICEL FIBRILLAR Haemostat accelerates clotting is not completely understood, but it appears to be a physical effect rather than any alteration of the normal physiologic clotting mechanism.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100016Z" creationid="alex" creationdate="20141002T100016Z">
+        <seg>Mecanismul de acţiune prin care hemostaticul SURGICEL FIBRILLAR accelerează coagularea nu este încă înţeles în totalitate, dar se pare că este mai degrabă un efect fizic decât o modificare a mecanismului fiziologic normal de coagulare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This makes it convenient for hard to reach or irregularly shaped bleeding sites.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T095945Z" creationid="alex" creationdate="20141002T095945Z">
+        <seg>Astfel produsul poate fi utilizat și în zone de sângerare greu accesibile sau cu forme neregulate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This protein is derived from the domesticated species Bombyx mori (B mori) of the family Bombycidae.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135750Z" creationid="alex" creationdate="20140917T135750Z">
@@ -562,6 +706,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135723Z" creationid="alex" creationdate="20140917T135723Z">
         <seg>Această proteină este obţinută de la specia domesticită Bombyx mori (B. mori) aparţinând familiei Bombycidae.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unwanted dispersal over the operative site does not occur.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T095955Z" creationid="alex" creationdate="20141002T095955Z">
+        <seg>Nu se produce dispersarea nedorită peste zona de operare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When used properly in minimal amounts, SURGICEL FIBRILLAR Haemostat is absorbed from the sites of implantation with practically no tissue reaction.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100035Z" creationid="alex" creationdate="20141002T100035Z">
+        <seg>Dacă este utilizat în mod adecvat în cantităţi minime, hemostaticul SURGICEL FIBRILLAR este absorbit de la locul de implantare practic fără reacţie tisulară.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whilst Silk is not absorbed, progressive degradation of the proteinaceous Silk fibre in vivo will result in a gradual loss of strength over time, with zero strength occuring between approximately 3 and 6 months.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T143101Z" creationid="alex" creationdate="20140917T143101Z">
@@ -634,6 +794,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135855Z" creationid="alex" creationdate="20140917T135855Z">
         <seg>Deși mătasea nu este absorbită, degradarea progresivă a fibrelor de mătase cu structură proteică în condiţii in-vivo duce la pierderea treptată a rezistenţei în timp, ajungându-se la rezistenţă zero după un interval de aproximativ 3 până la 6 luni. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>methicillin-resistant Staphylococcus aureus (MRSA)</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T100157Z" creationid="alex" creationdate="20141002T100157Z">
+        <seg>Staphylococcus aureus rezistent la meticilină (SARM)</seg>
       </tuv>
     </tu>
     <tu>
