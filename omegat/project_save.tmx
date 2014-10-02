@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dislodgement of SURGICEL FIBRILLAR Haemostat could possibly occur by means such as repacking, further intraoperative manipulation, lavage, exaggerated respiration, etc.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104441Z" creationid="alex" creationdate="20141002T104441Z">
+        <seg>Poate interveni dislocarea hemostaticului SURGICEL FIBRILLAR datorită unor manevre cum sunt reînfundarea, manipularea intraoperatorie ulterioară, lavajul, mișcările respiratorii exagerate etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not resterilize!</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140125Z" creationid="alex" creationdate="20140917T140125Z">
@@ -434,6 +442,22 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T095917Z" creationid="alex" creationdate="20141002T095917Z">
         <seg>Este rezistent și poate fi suturat sau tăiat fără să se destrame.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It must always be removed from the site of application when used in, around, or in proximity to foramina in bone, areas of bony confine, the spinal cord, and/or the optic nerve and chiasm regardless of the type of surgical procedure because SURGICEL FIBRILLAR Haemostat, by swelling, may exert pressure resulting in paralysis and/or nerve damage.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104433Z" creationid="alex" creationdate="20141002T104433Z">
+        <seg>Indiferent de tipul de procedură chirurgicală, acesta trebuie întotdeauna îndepărtat de la locul de aplicare atunci când este folosit în, în jurul sau în proximitatea unor foramene osoase, a unor zone închise de elemente osoase, a măduvei spinării sau a nervului optic ori chiasmei optice, deoarece prin umflare hemostaticul SURGICEL FIBRILLAR poate exercita o presiune ce poate provoca paralizie și/sau deteriorarea nervilor. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its haemostatic effect is not enhanced by the addition of thrombin, the activity of which is destroyed by the low pH of the product.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104355Z" creationid="alex" creationdate="20141002T104355Z">
+        <seg>Efectul său hemostatic nu este sporit prin adăugarea de trombină, activitatea acesteia fiind blocată de pH-ul scăzut al produsului.</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There have been reports that in procedures such as lobectomy, laminectomy and repair of a frontal skull fracture and lacerated lobe that SURGICEL FIBRILLAR Haemostat, when left in the patient after closure, migrated from the site of application into foramina in bone around the spinal cord resulting in paralysis and, in another case, the left orbit of the eye, causing blindness.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104446Z" creationid="alex" creationdate="20141002T104446Z">
+        <seg>Au fost raportate cazuri în care, în cadrul unor proceduri cum sunt lobectomia, laminectomia și repararea unei fracturi frontale de craniu cu lacerare de lob, lăsat în corpul pacientului după închiderea plăgii, hemostaticul SURGICEL FIBRILLAR a migrat de la locul de aplicare în forameneleosoase din jurul măduvei spinării, producând paralizie și, într-un alt caz, în orbita ochiului stâng, producând orbire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This makes it convenient for hard to reach or irregularly shaped bleeding sites.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T095945Z" creationid="alex" creationdate="20141002T095945Z">
@@ -826,6 +858,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135909Z" creationid="alex" creationdate="20140917T135909Z">
         <seg>AVERTISMENTE / PRECAUŢII / INTERACŢIUNI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warnings</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104300Z" creationid="alex" creationdate="20141002T104300Z">
+        <seg>Avertismente</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,10 +950,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>• »Although SURGICEL FIBRILLAR Haemostat may be left in situ when necessary, it is advisable to remove it once haemostasis is achieved.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104410Z" creationid="alex" creationdate="20141002T104410Z">
+        <seg>•»Deși hemostaticul SURGICEL FIBRILLAR poate fi lăsat in situ atunci când este necesar, se recomandă îndepărtarea sa după obţinerea hemostazei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>• »Although packing or wadding sometimes is medically necessary, SURGICEL FIBRILLAR Haemostat should not be used in this manner, unless it is to be removed after haemostasis is achieved.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T102630Z" creationid="alex" creationdate="20141002T102630Z">
         <seg>• »Deși operaţiunile de meșaj sau înfundare sunt uneori necesare din punct de vedere medical, hemostaticul SURGICEL FIBRILLAR nu trebuie utilizat în acest fel decât dacă urmează să fie înlăturat după obţinerea hemostazei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>• »Closing SURGICEL FIBRILLAR Haemostat in a contaminated wound without drainage may lead to complications and should be avoided.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104334Z" creationid="alex" creationdate="20141002T104334Z">
+        <seg>•»Închiderea materialului hemostatic SURGICEL FIBRILLAR într-o plagă contaminată fără includerea unui dren poate produce complicaţii, și trebuie evitată.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>• »SURGICEL FIBRILLAR Haemostat is not intended as a substitute for careful surgery and the proper use of sutures and ligatures.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104324Z" creationid="alex" creationdate="20141002T104324Z">
+        <seg>•»Utilizarea hemostaticului SURGICEL FIBRILLAR nu poate înlocui efectuarea cu atenţie a intervenţiei chirurgicale și utilizarea corespunzătoare a firelor de sutură și a ligaturilor. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>• »SURGICEL FIBRILLAR Haemostat is supplied sterile and as the material is not compatible with autoclaving or ethylene oxide sterilization SURGICEL FIBRILLAR Haemostat should not be re-sterilised.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104311Z" creationid="alex" creationdate="20141002T104311Z">
+        <seg>•»Hemostaticul SURGICEL FIBRILLAR este furnizat în stare sterilă și, întrucât materialul nu este compatibil cu sterilizarea prin autoclavare sau cu oxid de etilenă, hemostaticul SURGICEL FIBRILLAR nu trebuie resterilizat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>• »SURGICEL FIBRILLAR Haemostat should not be impregnated with anti-infective agents or with other materials such as buffering or haemostatic substances.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104348Z" creationid="alex" creationdate="20141002T104348Z">
+        <seg>•»Hemostaticul SURGICEL FIBRILLAR nu trebuie impregnat cu agenţi anti-infecţioși sau cu alte materiale cum ar fi soluţiile-tampon sau substanţele cu acţiune hemostatică.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>• »SURGICEL FIBRILLAR Haemostat should not be used on non-haemorrhagic serous oozing surfaces, since body fluids other than whole blood, such as serum, do not react with SURGICEL FIBRILLAR Haemostat to produce satisfactory haemostatic effect.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104238Z" creationid="alex" creationdate="20141002T104238Z">
+        <seg>•»Hemostaticul SURGICEL FIBRILLAR nu trebuie utilizat pe suprafeţe non-hemoragice cu secreţie seroasă întrucât celelalte fluide corporale în afară de sângele integral, cum ar fi serul, nu reacţionează cu hemostaticul SURGICEL FIBRILLAR pentru producerea unui efect hemostatic satisfăcător.</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,10 +1022,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>• »The haemostatic effect of SURGICEL FIBRILLAR Haemostat is greater when it is applied dry; therefore it should not be moistened with water or saline.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104341Z" creationid="alex" creationdate="20141002T104341Z">
+        <seg>•»Efectul hemostatic al hemostaticului SURGICEL FIBRILLAR este mai mare dacă este aplicat uscat; prin urmare, nu trebuie umezit cu apă sau soluţie salină.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>• »When SURGICEL FIBRILLAR Haemostat is used to help achieve haemostasis in, around, or in proximity to foramina in bone, areas of bony confine, the spinal cord, or the optic nerve and chiasm, it must always be removed after haemostasis is achieved since it will swell and could exert unwanted pressure.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T102649Z" creationid="alex" creationdate="20141002T102649Z">
         <seg>•»Atunci când se utilizează hemostaticul SURGICEL FIBRILLAR pentru a ajuta la obţinerea hemostazei în, în jurul sau în proximitatea unor foramene osoase, a unor zone închise de elemente osoase, a măduvei spinării sau a nervului optic ori chiasmei optice, acesta trebuie întotdeauna îndepărtat după obţinerea hemostazei întrucât se va umfla și poate exercita o presiune nedorită. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>•»SURGICEL FIBRILLAR Haemostat should not be used as an adhesion prevention product.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T104253Z" creationid="alex" creationdate="20141002T104253Z">
+        <seg>•»Hemostaticul SURGICEL FIBRILLAR nu trebuie utilizat ca produs de prevenire a aderenţelor.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
