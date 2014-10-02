@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Absorbable Haemostat</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T095838Z" creationid="alex" creationdate="20141002T095838Z">
+        <seg>Hemostatic absorbabil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acceptable surgical practice should be followed for the management of infected or contaminated wounds.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135925Z" creationid="alex" creationdate="20140917T135925Z">
