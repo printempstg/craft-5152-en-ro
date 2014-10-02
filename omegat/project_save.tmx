@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Authorised representative in the European community</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105134Z" creationid="alex" creationdate="20141002T105134Z">
+        <seg>Reprezentant autorizat în Uniunea Europeană</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Avoid crushing or crimping damage due to the application of surgical instruments such as forceps or needle holders.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135930Z" creationid="alex" creationdate="20140917T135930Z">
@@ -217,6 +225,14 @@
         <seg>CE-mark and Identification number of Notified Body.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140209Z" creationid="alex" creationdate="20140917T140209Z">
+        <seg>Marcajul CE și numărul de identificare a organului notificat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CE-mark and identification number of notified body</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105145Z" creationid="alex" creationdate="20141002T105145Z">
         <seg>Marcajul CE și numărul de identificare a organului notificat.</seg>
       </tuv>
     </tu>
@@ -614,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Method of sterilisation: irradiation</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105116Z" creationid="alex" creationdate="20141002T105116Z">
+        <seg>Metoda de sterilizare: Iradiere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Method of sterilization: Irradiation</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140207Z" creationid="alex" creationdate="20140917T140207Z">
@@ -914,6 +938,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T105005Z" creationid="alex" creationdate="20141002T105005Z">
         <seg>Depozitare și termen de valabilitate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Store 15-30°C.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141002T105140Z" creationid="alex" creationdate="20141002T105140Z">
+        <seg>Depozitaţi între 15 °C și 30 °C</seg>
       </tuv>
     </tu>
     <tu>
