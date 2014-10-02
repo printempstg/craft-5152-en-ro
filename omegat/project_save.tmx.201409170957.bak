@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>BRAIDED SILK –VIRGIN SILK STERILE NONABSORBABLE SUTURE</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135709Z" creationid="alex" creationdate="20140917T135709Z">
+        <seg>MĂTASE ÎMPLETITĂ – MĂTASE PURĂ STERIL NON-ABSORBABIL FIR DE SUTURĂ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DESCRIPTION</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135710Z" creationid="alex" creationdate="20140917T135710Z">
+        <seg>DESCRIERE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instructions for use</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135622Z" creationid="alex" creationdate="20140917T135622Z">
+        <seg>Instrucţiuni de utilizare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Silk suture is a nonabsorbable sterile surgical suture composed of an organic protein called fibroin.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135719Z" creationid="alex" creationdate="20140917T135719Z">
+        <seg>Firul de sutură din mătase este un fir de sutură chirurgical steril, non-absorbabil, compus dintr-o proteină organică numită fibroină.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This protein is derived from the domesticated species Bombyx mori (B.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135723Z" creationid="alex" creationdate="20140917T135723Z">
+        <seg>Această proteină este obţinută de la specia domesticită Bombyx mori (B. mori) aparţinând familiei Bombycidae.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>ADVERSE REACTIONS</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140035Z" creationid="alex" creationdate="20140917T140035Z">
+        <seg>REACŢII ADVERSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>APPLICATION</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135838Z" creationid="alex" creationdate="20140917T135838Z">
+        <seg>MOD DE UTILIZARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Acceptable surgical practice should be followed for the management of infected or contaminated wounds.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135925Z" creationid="alex" creationdate="20140917T135925Z">
+        <seg>Pentru tratarea plăgilor infectate sau contaminate trebuie adoptate procedurile chirurgicale acceptate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adequate knot security requires the accepted surgical technique of flat and square ties, with additional throws as indicated by surgical circumstances and the experience of the surgeon.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135924Z" creationid="alex" creationdate="20140917T135924Z">
+        <seg>Pentru a garanta o siguranţă adecvată a nodului trebuie utilizată tehnica chirurgicală standard a nodului pătrat și plat, cu surjeturi suplimentare, după cum o indică circumstanţele chirurgicale și experienţa chirurgului.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adverse effects associated with the use of this device include allergic response in patients that are known to be sensitive to Silk, initial inflammatory tissue reaction, and transient local irritation at the wound site.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140046Z" creationid="alex" creationdate="20140917T140046Z">
+        <seg>Reacţiile adverse asociate cu utilizarea acestui dispozitiv includ reacţie alergică la pacienţii cunoscuţi cu sensibilitate la mătase, reacţie inflamatorie tisulară iniţială și iritaţie locală tranzitorie la nivelul plăgii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All needles except bicolor needles labelled with MRI are magnetizable and should therefore not be used in an active magnetic field.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142724Z" creationid="alex" creationdate="20140917T142724Z">
+        <seg>Toate acele, cu excepţia celor bicolore care sunt etichetate cu RMN sunt magnetizabile și, prin urmare, nu trebuie utilizate în câmp magnetic activ. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As with any foreign body, prolonged contact of any suture with salt solutions, such as those found in the urinary or biliary tracts, may result in calculus formation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135918Z" creationid="alex" creationdate="20140917T135918Z">
+        <seg>La fel ca în cazul oricărui corp străin, contactul prelungit al oricărui fir de sutură cu soluţii de săruri, precum cele întâlnite în tractul urinar sau biliar, poate determina formarea calculilor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avoid crushing or crimping damage due to the application of surgical instruments such as forceps or needle holders.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135930Z" creationid="alex" creationdate="20140917T135930Z">
+        <seg>Evitaţi strivirea sau încreţirea firului cu instrumente chirurgicale cum ar fi pense sau portace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BRAIDED SILK –VIRGIN SILK STERILE NONABSORBABLE SUTURE</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135709Z" creationid="alex" creationdate="20140917T135709Z">
+        <seg>MĂTASE ÎMPLETITĂ – MĂTASE PURĂ STERIL NON-ABSORBABIL FIR DE SUTURĂ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Batch number</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140216Z" creationid="alex" creationdate="20140917T140216Z">
+        <seg>Număr de lot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Braided silk is coated with wax and is available undyed and dyed in black with haematein HCK (Colour Index Number 75290).</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135802Z" creationid="alex" creationdate="20140917T135802Z">
+        <seg>Mătasea împletită este acoperită cu ceară și este disponibilă în stare nevopsită sau vopsită în negru cu hemateină HCK (codul culorii 75290).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CE-mark and Identification number of Notified Body.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140209Z" creationid="alex" creationdate="20140917T140209Z">
+        <seg>Marcajul CE și numărul de identificare a organului notificat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CONTRAINDICATIONS</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135856Z" creationid="alex" creationdate="20140917T135856Z">
+        <seg>CONTRAINDICAŢII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Care should be taken to avoid damage when handling surgical needles.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135932Z" creationid="alex" creationdate="20140917T135932Z">
+        <seg>Manevrarea acelor chirurgicale trebuie realizată cu grijă pentru a evita deteriorările.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DESCRIPTION</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135710Z" creationid="alex" creationdate="20140917T135710Z">
+        <seg>DESCRIERE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Discard opened, unused products!</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142741Z" creationid="alex" creationdate="20140917T142741Z">
+        <seg>Aruncaţi produsele deschise, neutilizate!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Discard opened, unused sutures!</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140128Z" creationid="alex" creationdate="20140917T140128Z">
+        <seg>Aruncaţi firele de sutură deschise, neutilizate!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Discard used needles in “Sharps“ container.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140034Z" creationid="alex" creationdate="20140917T140034Z">
+        <seg>Aruncaţi acele utilizate în recipientele pentru obiecte ascuţite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not resterilize!</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140125Z" creationid="alex" creationdate="20140917T140125Z">
+        <seg>A nu se resteriliza!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not reuse</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140202Z" creationid="alex" creationdate="20140917T140202Z">
+        <seg>A nu se reutiliza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not use after expiry date!</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142745Z" creationid="alex" creationdate="20140917T142745Z">
+        <seg>A nu se utiliza după data de expirare!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not use after expiry date!ˇ</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140158Z" creationid="alex" creationdate="20140917T140158Z">
+        <seg>A nu se utiliza după data de expirare!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not use if package is opened or damaged!</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140127Z" creationid="alex" creationdate="20140917T140127Z">
+        <seg>A nu se utiliza dacă ambalajul este desfăcut sau deteriorat!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not use if the package is damaged or opened!</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142735Z" creationid="alex" creationdate="20140917T142735Z">
+        <seg>A nu se utiliza dacă ambalajul este deteriorat sau deschis!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Due to the gradual loss of all strength that will occur over a period of 3 to 6 months in vivo, Silk suture should not be used where permanent retention of tensile strength is required.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135908Z" creationid="alex" creationdate="20140917T135908Z">
+        <seg>Datorită pierderii treptate a întregii rezistenţe care apare după un interval de 3 până la 6 luni în condiţii in-vivo, firele de sutură din mătase nu trebuie utilizate în situaţiile în care este necesară păstrarea permanentă ¬a rezistenţei la tracţiune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During tightening, ETHILOOP™ tubing flattens out, the surface area increases, pressure is distributed over a greater area and the risk of slicing into tissue is minimized.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142702Z" creationid="alex" creationdate="20140917T142702Z">
+        <seg>În timpul strângerii, tubul ETHILOOP™ se aplatizează, suprafața sa crește, presiunea se distribuie pe o zonă mai mare și riscul de secționare a țesuturilor este minimizat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During tightening, ETHILOOP™ tubing flattens out, the surface area increases, pressure is distributed over a greater area and the risk of slicing into tissue is minimized.CONTRAINDICATIONS</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142630Z" creationid="alex" creationdate="20140917T142630Z">
+        <seg>În timpul strângerii, tubul ETHILOOP™ se aplatizează, suprafața sa crește, presiunea se distribuie pe o zonă mai mare și riscul de secționare a țesuturilor este minimizat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ETHILOOP™ comes in the following colours: white (Color Index Number 77891), red (CI Numbers 71137, 71105, 77891), blue (CI Numbers 77343, 77891, 77502) and yellow (CI Number 77788).</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142609Z" creationid="alex" creationdate="20140917T142609Z">
+        <seg>ETHILOOP™ este disponibil în următoarele culori: alb (codul culorii 77891), roșu (codul culorii 71137, 71105, 77891), albastru (codul culorii 77343, 77891, 77502) și galben (codul culorii 77788).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ETHILOOP™ has been developed for use during surgery and is not intended for implantation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142720Z" creationid="alex" creationdate="20140917T142720Z">
+        <seg>ETHILOOP™ a fost creat pentru a fi utilizat în timpul intervenţiilor chirurgicale și nu este destinat implantării.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ETHILOOP™ is an elastic tubing made from biocompatible silicone and is available in diameters of 1.3 and 2.0 mm as well as in sheathed form with a diameter of 1.1 mm.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142606Z" creationid="alex" creationdate="20140917T142606Z">
+        <seg>ETHILOOP™ este un tub elastic confecţionat din silicon biocompatibil și este disponibil în diametrele de 1,3 și 2,0 mm, precum și cu un strat de acoperire, cu diametrul de 1,1 mm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ETHILOOP™ is used to secure and label arteries, veins and nerves as well as ureters and the vas deferens.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142615Z" creationid="alex" creationdate="20140917T142615Z">
+        <seg>ETHILOOP™ se utilizează la fixarea și marcarea arterelor, venelor și nervilor, precum și a ureterelor și canalului deferent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ETHILOOP™ silicone sling is a sterile product.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142729Z" creationid="alex" creationdate="20140917T142729Z">
+        <seg>Șnurul buclă de silicon ETHILOOP™ este un produs steril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For virgin silk the sericin gum is not removed and holds the twisted filaments together.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135806Z" creationid="alex" creationdate="20140917T135806Z">
+        <seg>În cazul mătăsii pure, rășina numită sericină nu este îndepărtată, aceasta ţinând împreună filamentele răsucite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full details are contained in the catalogue.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135822Z" creationid="alex" creationdate="20140917T135822Z">
+        <seg>Detaliile complete sunt prezentate în catalog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grasp the needle in an area one-third (1/3) to one half (1/2) of the distance from the attachment end to the point.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135933Z" creationid="alex" creationdate="20140917T135933Z">
+        <seg>Prindeţi acul în porţiunea dintre prima treime proximală și prima jumătate proximală.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grasping at the butt or attachment end could cause bending or breakage.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135936Z" creationid="alex" creationdate="20140917T135936Z">
+        <seg>Prinderea acului de capătul mai gros sau de capătul la care este atașat firul poate determina îndoirea sau ruperea acestuia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grasping in the point area could impair the penetration performance and cause fracture of the needle.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135934Z" creationid="alex" creationdate="20140917T135934Z">
+        <seg>Prinderea acului de zona vârfului poate afecta capacitatea sa de penetrare și poate determina ruperea acestuia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INDICATIONS</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135829Z" creationid="alex" creationdate="20140917T135829Z">
+        <seg>INDICAŢII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instructions for use</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135622Z" creationid="alex" creationdate="20140917T135622Z">
+        <seg>Instrucţiuni de utilizare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Like all foreign bodies silk may potentiate an existing infection.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140110Z" creationid="alex" creationdate="20140917T140110Z">
+        <seg>La fel ca toate corpurile străine, mătasea poate potenţa o infecţie existentă.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Method of sterilization: Irradiation</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140207Z" creationid="alex" creationdate="20140917T140207Z">
+        <seg>Metoda de sterilizare: Iradiere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None known.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142707Z" creationid="alex" creationdate="20140917T142707Z">
+        <seg>Nu se cunosc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PERFORMANCE</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135841Z" creationid="alex" creationdate="20140917T135841Z">
+        <seg>PERFORMANŢĂ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recommended storage conditions: below 25° C, away from moisture and direct heat.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140131Z" creationid="alex" creationdate="20140917T140131Z">
+        <seg>Condiţii de depozitare recomandate: la temperaturi mai mici de 25 °C, ferit de umezeală sau căldură directă.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reshaping needles may cause them to lose strength and be less resistant to bending and breaking.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140030Z" creationid="alex" creationdate="20140917T140030Z">
+        <seg>Remodelarea acelor poate determina pierderea solidităţii, acestea devenind astfel mai puţin rezistente la îndoire sau rupere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reshaping needles may cause them to lose strength and be less resistant to bending and breaking.Users should exercise caution when handling surgical needles to avoid inadvertent needle stick injury.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140024Z" creationid="alex" creationdate="20140917T140024Z">
+        <seg>Manevrarea acelor chirurgicale trebuie realizată cu atenţie pentru a evita leziunile accidentale prin înţepare. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SILICONE SLING</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142555Z" creationid="alex" creationdate="20140917T142555Z">
+        <seg>ȘNUR BUCLĂ DIN SILICON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STERILITY</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140112Z" creationid="alex" creationdate="20140917T140112Z">
+        <seg>STERILITATEA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STORAGE</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140129Z" creationid="alex" creationdate="20140917T140129Z">
+        <seg>DEPOZITARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYMBOLS USED ON LABELLING</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140200Z" creationid="alex" creationdate="20140917T140200Z">
+        <seg>SIMBOLURI UTILIZATE PENTRU ETICHETARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See instructions for use</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140218Z" creationid="alex" creationdate="20140917T140218Z">
+        <seg>A se consulta instrucţiunile de utilizare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Silk for braided material is processed to remove the natural waxes and gums.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135759Z" creationid="alex" creationdate="20140917T135759Z">
+        <seg>Mătasea pentru materialul împletit este procesată pentru a îndepărta cerurile și rășinile naturale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Silk suture elicits an initial inflammatory reaction in tissues, which is followed by gradual encapsulation of the suture by fibrous connective tissues.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135850Z" creationid="alex" creationdate="20140917T135850Z">
+        <seg>Firele de sutură din mătase suscită o reacţie inflamatorie iniţială la nivelul ţesuturilor, urmată de încapsularea treptată a suturii în ţesut conjunctiv fibros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Silk suture is a nonabsorbable sterile surgical suture composed of an organic protein called fibroin.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135719Z" creationid="alex" creationdate="20140917T135719Z">
+        <seg>Firul de sutură din mătase este un fir de sutură chirurgical steril, non-absorbabil, compus dintr-o proteină organică numită fibroină.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Silk suture is indicated for use in general soft tissue approximation and/or ligation including use in cardiovascular, ophthalmic and neurological procedures.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135837Z" creationid="alex" creationdate="20140917T135837Z">
+        <seg>Firele de sutură din mătase sunt indicate pentru utilizare în intervenţiile generale de afrontare și/sau ligaturare a ţesuturilor moi, ceea ce include procedurile cardiovasculare, oftalmologice și neurologice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Silk sutures are available in a range of gauge sizes and lengths, attached to stainless steel needles of varying types and sizes.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135816Z" creationid="alex" creationdate="20140917T135816Z">
+        <seg>Firele de sutură din mătase sunt disponibile într-o gamă variată de diametre și lungimi, atașate la ace din oţel inoxidabil de diverse tipuri și mărimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Silk sutures are sterilized by irradiation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140124Z" creationid="alex" creationdate="20140917T140124Z">
+        <seg>Firele de sutură din mătase sunt sterilizate prin iradiere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Silk sutures comply with the requirements of the United States Pharmacopoeia monograph for Nonabsorbable Sutures and the European Pharmacopoeia for Sterile Braided Silk Suture.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135829Z" creationid="alex" creationdate="20140917T135829Z">
+        <seg>Firele de sutură din mătase corespund cerinţelor formulate în monografia Farmacopeii SUA privind suturile neabsorbabile, precum și Farmacopeii Europene privind firele de sutură sterile din mătase împletită.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sterile unless package is damaged or opened.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140206Z" creationid="alex" creationdate="20140917T140206Z">
+        <seg>Steril dacă ambalajul nu este desfăcut sau deteriorat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sutures should be selected and implanted depending on patient’s condition, surgical experience, surgical technique and wound size.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135840Z" creationid="alex" creationdate="20140917T135840Z">
+        <seg>Firele de sutură trebuie selectate și utilizate în funcţie de starea pacientului, experienţa chirurgului, tehnica chirurgicală și dimensiunea plăgii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The elasticity of ETHILOOP™ allows it to be tightened in a controlled way without injuring the tissue involved.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142625Z" creationid="alex" creationdate="20140917T142625Z">
+        <seg>Elasticitatea ETHILOOP™ permite strângerea acestuia în mod controlat, fără lezarea țesutului implicat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The needles may be attached permanently or as CR needles (control release) enabling the needles to be pulled off instead of being cut off.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135820Z" creationid="alex" creationdate="20140917T135820Z">
+        <seg>Acele pot fi atașate definitiv sau în sistemul EC (eliberare controlată), ceea ce le permite să fie smulse în loc să fie tăiate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The product meets the essential requirements of Medical Device Directive 93/42/EEC</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140214Z" creationid="alex" creationdate="20140917T140214Z">
+        <seg>Acest produs corespunde cerinţelor esenţiale ale directivei 93/42/CEE privind dispozitivele medicale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The use of this suture is contraindicated in patients with known sensitivities or allergies to Silk.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135903Z" creationid="alex" creationdate="20140917T135903Z">
+        <seg>Este contraindicată utilizarea acestor fire de sutură la pacienţii cunoscuţi cu sensibilitate sau alergie la mătase. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This protein is derived from the domesticated species Bombyx mori (B mori) of the family Bombycidae.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135750Z" creationid="alex" creationdate="20140917T135750Z">
+        <seg>Această proteină este obţinută de la specia domesticită Bombyx mori (B. mori) aparţinând familiei Bombycidae.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This protein is derived from the domesticated species Bombyx mori (B.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135723Z" creationid="alex" creationdate="20140917T135723Z">
+        <seg>Această proteină este obţinută de la specia domesticită Bombyx mori (B. mori) aparţinând familiei Bombycidae.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use by – year and month</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140204Z" creationid="alex" creationdate="20140917T140204Z">
+        <seg>A se utiliza până la – anul și luna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users should be familiar with surgical procedures and techniques involving nonabsorbable sutures before employing Silk suture for wound closure, as risk of wound dehiscence, may vary with the site of application and the suture material used.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135917Z" creationid="alex" creationdate="20140917T135917Z">
+        <seg>Înainte de folosirea firelor de sutură din mătase pentru închiderea plăgilor, utilizatorii trebuie să fie familiarizaţi cu procedurile și tehnicile chirurgicale care implică utilizarea firelor de sutură non-absorbabile, deoarece riscul de dehiscenţă a plăgilor poate varia în funcţie de locul de aplicare și de materialul de sutură utilizat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users should exercise caution when handling surgical needles to avoid inadvertent needle stick injury.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T140032Z" creationid="alex" creationdate="20140917T140032Z">
+        <seg>Manevrarea acelor chirurgicale trebuie realizată cu atenţie pentru a evita leziunile accidentale prin înţepare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Virgin silk is available dyed blue with methylene blue (Colour Index Number 52015) or dyed black with haematein HCK (Colour Index Number 75290).</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135810Z" creationid="alex" creationdate="20140917T135810Z">
+        <seg>Mătasea pură este disponibilă vopsită în albastru cu albastru de metilen (codul culorii 52015) sau în negru cu hemateină HCK (codul culorii 75290).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WARNINGS/PRECAUTIONS/INTERACTIONS</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135909Z" creationid="alex" creationdate="20140917T135909Z">
+        <seg>AVERTISMENTE / PRECAUŢII / INTERACŢIUNI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When handling this or any other suture, care should be taken to avoid damage.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135926Z" creationid="alex" creationdate="20140917T135926Z">
+        <seg>Manevrarea acestor fire de sutură precum și a oricăror altora trebuie realizată cu grijă pentru a evita deteriorarea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whilst Silk is not absorbed, progressive degradation of the proteinaceous Silk fibre in vivo will result in a gradual loss of strength over time, with zero strength occurring between approximately 3 and 6 months.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T135855Z" creationid="alex" creationdate="20140917T135855Z">
+        <seg>Deși mătasea nu este absorbită, degradarea progresivă a fibrelor de mătase cu structură proteică în condiţii in-vivo duce la pierderea treptată a rezistenţei în timp, ajungându-se la rezistenţă zero după un interval de aproximativ 3 până la 6 luni. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>– STERILE –</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140917T142556Z" creationid="alex" creationdate="20140917T142556Z">
+        <seg>– STERIL –</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

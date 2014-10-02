@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.5" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>(POLYESTER)</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213036Z" creationid="alex" creationdate="20140703T213036Z">
+        <seg>(POLIESTER)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Polyglactin 910)</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213545Z" creationid="alex" creationdate="20140703T213545Z">
+        <seg>(Poliglactin 910)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>14 days</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213741Z" creationid="alex" creationdate="20140703T213741Z">
+        <seg>14 zile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>21 days (6-0 and larger)</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213745Z" creationid="alex" creationdate="20140703T213745Z">
+        <seg>21 zile (6-0 și mai mare)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>21 days (7-0 and smaller)</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213749Z" creationid="alex" creationdate="20140703T213749Z">
+        <seg>21 zile (7-0 și mai mic)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>28 days (6-0 and larger)</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213752Z" creationid="alex" creationdate="20140703T213752Z">
+        <seg>28 zile (6-0 și mai mare)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ADVERSE REACTIONS</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213316Z" creationid="alex" creationdate="20140703T213316Z">
+        <seg>REACŢII ADVERSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>APPLICAT ION</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213706Z" creationid="alex" creationdate="20140703T213706Z">
+        <seg>MOD DE UTILIZARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>APPLICATION</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213141Z" creationid="alex" creationdate="20140703T213141Z">
+        <seg>MOD DE UTILIZARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Absorption begins as a loss of tensile strength followed by a loss of mass.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213722Z" creationid="alex" creationdate="20140703T213722Z">
+        <seg>Absorbţia începe printr-o scădere a rezistenţei la tracţiune, urmată de o scădere a masei firului.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Absorption of VICRYL™ suture is essentially complete between 56 and 70 days.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213729Z" creationid="alex" creationdate="20140703T213729Z">
+        <seg>Absorbţia firelor de sutură VICRYL™ este practic completă între 56 și 70 de zile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Acceptable surgical practice should be followed for the management of contaminated or infected wounds.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213823Z" creationid="alex" creationdate="20140703T213823Z">
+        <seg>Pentru tratarea plăgilor contaminate sau infectate trebuie adoptate procedurile chirurgicale corespunzătoare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Acceptable surgical practice should be followed for the management of infected or contaminated wounds.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213220Z" creationid="alex" creationdate="20140703T213220Z">
+        <seg>Pentru tratarea plăgilor infectate sau contaminate trebuie adoptate procedurile chirurgicale acceptate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adequate knot security requires the standard surgical technique of flat and square ties with additional throws as indicated by surgical circumstance and the experience of the surgeon.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213232Z" creationid="alex" creationdate="20140703T213232Z">
+        <seg>Pentru a garanta o siguranţă adecvată a nodului trebuie utilizată tehnica chirurgicală standard a nodului pătrat și plat, cu surjeturi suplimentare, în funcţie de circumstanţele chirurgicale și experienţa chirurgului.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adequate knot security requires the standard surgical technique of flat and square ties with additional throws as indicated by surgical circumstances and the experience of the surgeon.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213929Z" creationid="alex" creationdate="20140703T213929Z">
+        <seg>Pentru a garanta o siguranţă adecvată a nodului trebuie utilizată tehnica chirurgicală standard a nodului pătrat și plat, cu surjeturi suplimentare, după cum o indică circumstanţele chirurgicale și experienţa chirurgului.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adverse reactions associated with the use of VICRYL™ RAPIDE include transient local irritation at the wound site, transitory inflammatory foreign body response, erythema and induration during the absorption process of subcuticular sutures.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214337Z" creationid="alex" creationdate="20140703T214337Z">
+        <seg>Reacţiile adverse asociate cu utilizarea VICRYL™ rapide includ iritaţia tranzitorie locală la nivelul plăgii, reacţia inflamatorie tranzitorie faţă de un corp străin, eritemul și indurarea în cursul procesului de absorbţie a suturilor subcuticulare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adverse reactions associated with the use of this device include minimal, initial inflammatory tissue reaction and transient local irritation at the wound site.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213320Z" creationid="alex" creationdate="20140703T213320Z">
+        <seg>Reacţiile adverse asociate cu utilizarea acestui dispozitiv includ reacţie inflamatorie tisulară minimă și iritaţie locală tranzitorie la nivelul plăgii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adverse reactions associated with the use of this device include transitory local irritation at the wound site, transitory inflammatory foreign body response, erythema and induration during the absorption process of subcuticular sutures.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213938Z" creationid="alex" creationdate="20140703T213938Z">
+        <seg>Reacţiile adverse asociate cu utilizarea acestui dispozitiv includ iritaţia tranzitorie locală la nivelul plăgii, reacţia inflamatorie tranzitorie faţă de un corp străin, eritemul și indurarea în cursul procesului de absorbţie a suturilor subcuticulare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All needles except bicolour needles labelled with MRI are magnetizable and should therefore not be used in an active magnetic field.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213303Z" creationid="alex" creationdate="20140703T213303Z">
+        <seg>Toate acele, cu excepţia celor bicolore care sunt etichetate cu RMN, sunt magnetizabile și, prin urmare, nu trebuie utilizate în câmp magnetic activ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All of the original tensile strength is lost by approximately 10 to 14 days post-implantation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214208Z" creationid="alex" creationdate="20140703T214208Z">
+        <seg>Rezistenţa la tracţiune se pierde în întregime în decurs de aproximativ 10 până  la 14 zile de la implantare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All of the original tensile strength is lost by five weeks post implantation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213726Z" creationid="alex" creationdate="20140703T213726Z">
+        <seg>Rezistenţa la tracţiune dispare în totalitate în decurs de cinci săptămâni de la implantare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As VICRYL™ RAPIDE is an absorbable suture material, the use of supplemental nonabsorbable sutures should be considered by the surgeon in the closure of sites which may undergo expansion, stretching or distension, or which may require additional support.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214253Z" creationid="alex" creationdate="20140703T214253Z">
+        <seg>Deoarece VICRYL™ rapide este un material de sutură absorbabil, chirurgul trebuie să ia în considerare utilizarea unor fire de sutură non-absorbabile suplimentare în regiunile care pot fi supuse la tensiuni de expansiune, întindere sau destindere sau care necesită o întărire suplimentară.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As an absorbable suture VICRYL™ RAPIDE may act transiently as a foreign body.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214246Z" creationid="alex" creationdate="20140703T214246Z">
+        <seg>Ca fir de sutură absorbabil, VICRYL™ rapide poate acţiona în mod tranzitoriu ca un corp străin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As an absorbable suture VICRYL™ may act transiently as a foreign body.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213819Z" creationid="alex" creationdate="20140703T213819Z">
+        <seg>Fiind un fir de sutură absorbabil, VICRYL™ poate acţiona temporar ca un corp străin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As this is an absorbable suture material, the use of supplemental nonabsorbable sutures should be considered by the surgeon in the closure of the sites which may undergo expansion, stretching or distension, or which may require additional support.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213829Z" creationid="alex" creationdate="20140703T213829Z">
+        <seg>Deoarece acesta este un material de sutură absorbabil, chirurgul trebuie să ia în considerare utilizarea unor fire de sutură non-absorbabile suplimentare în regiunile care pot fi supuse la expansiune, întindere sau destindere sau care necesită  susţinere suplimentară.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As with any foreign body, prolonged contact of any suture with salt solutions, such as those found in the urinary or biliary tracts, may result in calculus formation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213216Z" creationid="alex" creationdate="20140703T213216Z">
+        <seg>La fel ca în cazul oricărui corp străin, contactul prelungit al oricărui fir de sutură cu soluţii de săruri, precum cele întâlnite în tractul urinar sau biliar, poate determina formarea calculilor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avoid crushing or crimping damage due to application of surgical instruments such as forceps or needle holders.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213228Z" creationid="alex" creationdate="20140703T213228Z">
+        <seg>Evitaţi strivirea sau încreţirea firului cu instrumente chirurgicale cum ar fi pense sau portace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Batch number</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213423Z" creationid="alex" creationdate="20140703T213423Z">
+        <seg>Număr de lot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Braided VICRYL™ sutures are coated with a mixture composed of equal parts of copolymer of glycolide and lactide (Polyglactin 370) and calcium stearate.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213605Z" creationid="alex" creationdate="20140703T213605Z">
+        <seg>Firele de sutură VICRYL™ împletite sunt acoperite cu un amestec compus în părţi egale din copolimer de glicolidă și lactidă (poliglactin 370) și stearat de calciu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CE-mark and Identification number of Notified Body.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213415Z" creationid="alex" creationdate="20140703T213415Z">
+        <seg>Marcajul CE și numărul de identificare a organului notificat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CONTRAINDICATIONS</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213200Z" creationid="alex" creationdate="20140703T213200Z">
+        <seg>CONTRAINDICAŢII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Care should be taken to avoid damage when handling surgical needles.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213240Z" creationid="alex" creationdate="20140703T213240Z">
+        <seg>Manevrarea acelor chirurgicale trebuie realizată cu grijă pentru a evita deteriorările.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Combinations with needles are available which are suitable for application in a magnetic field up to 1,5 tesla.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213110Z" creationid="alex" creationdate="20140703T213110Z">
+        <seg>Sunt disponibile combinaţii cu ace care asigură compatibilitatea cu câmpuri magnetice de până la 1,5 tesla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consideration should be taken in the use of absorbable sutures in tissues with poor blood supply as suture extrusion and delayed absorption may occur.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213843Z" creationid="alex" creationdate="20140703T213843Z">
+        <seg>Utilizarea firelor de sutură absorbabile în ţesuturi cu o vascularizaţie slabă trebuie realizată cu precauţie deoarece pot apărea fenomene de  extrudare a suturii sau de absorbţie întârziată.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DESCRIPTION</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213047Z" creationid="alex" creationdate="20140703T213047Z">
+        <seg>DESCRIERE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Days Approximate % original</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213733Z" creationid="alex" creationdate="20140703T213733Z">
+        <seg>Zile de la implantare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Discard opened, unused sutures!</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213342Z" creationid="alex" creationdate="20140703T213342Z">
+        <seg>Aruncaţi firele de sutură deschise, neutilizate!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Discard used needles in ‘Sharps’ containers.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213312Z" creationid="alex" creationdate="20140703T213312Z">
+        <seg>Aruncaţi acele utilizate în recipientele pentru obiecte ascuţite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not re-sterilize!</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213335Z" creationid="alex" creationdate="20140703T213335Z">
+        <seg>A nu se resteriliza!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not resterilize!</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213952Z" creationid="alex" creationdate="20140703T213952Z">
+        <seg>A nu se resteriliza!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not reuse</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213400Z" creationid="alex" creationdate="20140703T213400Z">
+        <seg>A nu se reutiliza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not use after expiry date!</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213353Z" creationid="alex" creationdate="20140703T213353Z">
+        <seg>A nu se utiliza după data de expirare!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not use if package is opened or damaged!</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213339Z" creationid="alex" creationdate="20140703T213339Z">
+        <seg>A nu se utiliza dacă ambalajul este desfăcut sau deteriorat!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Due to its absorption profile VICRYL™ RAPIDE is useful for skin closure, particularly in paediatric surgery, episiotomies, circumcision and closure of oral mucosa.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214135Z" creationid="alex" creationdate="20140703T214135Z">
+        <seg>Datorită profilului absorbţiei sale, firul de sutură VICRYL™ rapide este util pentru închiderea pielii, în special în chirurgia pediatrică, în epiziotomii, circumcizii și închiderea mucoasei orale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Due to the rapid loss of tensile strength, VICRYL™ RAPIDE should not be used where extended approximation of tissues under stress is required or where wound support or ligation beyond 7 days is required.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214217Z" creationid="alex" creationdate="20140703T214217Z">
+        <seg>Datorită pierderii rapide a rezistenţei la tracţiune, VICRYL™ rapide nu trebuie utilizat în cazurile în care este necesară afrontarea extinsă a ţesuturilor sub tensiune sau în cazurile în care este necesară susţinerea sau ligaturarea plăgii pe o perioadă mai mare de 7 zile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For adequate knot security VICRYL™ RAPIDE, which is treated with coating to enhance handling characteristics, requires the accepted surgical technique of flat and square ties with additional throws as indicated by surgical circumstance and experience of the surgeon.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214326Z" creationid="alex" creationdate="20140703T214326Z">
+        <seg>Pentru a garanta o siguranţă adecvată a nodului, VICRYL™ rapide, care are un strat de acoperire pentru a putea fi mai ușor manevrat, necesită utilizarea tehnicii chirurgicale standard a nodului plat și pătrat, cu surjeturi suplimentare, în funcţie de situaţie și de experienţa chirurgului.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full details are contained in the catalogue.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213642Z" creationid="alex" creationdate="20140703T213642Z">
+        <seg>Detaliile complete sunt prezentate în catalog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full details are listed in the catalogue.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214122Z" creationid="alex" creationdate="20140703T214122Z">
+        <seg>Detaliile complete sunt prezentate în catalog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full details of the product range are contained in the catalogue.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213118Z" creationid="alex" creationdate="20140703T213118Z">
+        <seg>Detaliile complete privind gama de produse sunt  prezentate în catalog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grasp the needle in an area one third (1/3) to one half (1/2) of the distance from the attachment end to the point.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213244Z" creationid="alex" creationdate="20140703T213244Z">
+        <seg>Prindeţi acul in porţiunea dintre prima treime (1/3) proximală și prima jumătate (1/2) proximală.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grasp the needle in an area one-third (1/3) to one-half (1/2) of the distance from the attachment end to the point.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213904Z" creationid="alex" creationdate="20140703T213904Z">
+        <seg>Prindeţi acul în porţiunea dintre prima treime proximală și prima jumătate proximală.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grasping at the butt or attachment end could cause bending or breakage.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213253Z" creationid="alex" creationdate="20140703T213253Z">
+        <seg>Prinderea acului de capătul mai gros sau de capătul la care este atașat firul poate determina îndoirea sau ruperea acestuia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grasping in the point area could impair the penetration performance and cause fracture of the needle.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213248Z" creationid="alex" creationdate="20140703T213248Z">
+        <seg>Prinderea acului de zona vârfului poate afecta capacitatea sa de penetrare și poate determina ruperea acestuia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INDICAT ION S</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213654Z" creationid="alex" creationdate="20140703T213654Z">
+        <seg>INDICAŢII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INDICATIONS</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213132Z" creationid="alex" creationdate="20140703T213132Z">
+        <seg>INDICAŢII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Implantation Strength Remaining</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213738Z" creationid="alex" creationdate="20140703T213738Z">
+        <seg>Procentaj aprox. rămas din rezistenţa iniţială</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In handling this or any other suture material, care should be taken to avoid damage from handling.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214321Z" creationid="alex" creationdate="20140703T214321Z">
+        <seg>Manevrarea acestui material precum și a oricăror altor materiale de sutură trebuie realizată cu grijă pentru a evita deteriorarea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In handling this or any other suture material, care should be taken to avoid damage.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213224Z" creationid="alex" creationdate="20140703T213224Z">
+        <seg>Manevrarea acestui material de sutură precum și a oricăror altora trebuie realizată cu grijă pentru a evita deteriorarea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instructions for use</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213027Z" creationid="alex" creationdate="20140703T213027Z">
+        <seg>Instrucţiuni de utilizare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Like all foreign bodies MERSILENE™ may potentiate an existing infection.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213324Z" creationid="alex" creationdate="20140703T213324Z">
+        <seg>La fel ca toate corpurile străine, MERSILENE™ poate potenţa o infecţie existentă.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Like all foreign bodies VICRYL™ RAPIDE may enhance an existing infection.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214342Z" creationid="alex" creationdate="20140703T214342Z">
+        <seg>La fel ca toate corpurile străine,  VICRYL™ rapide poate potenţa o infecţie existentă.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Like all foreign bodies VICRYL™ may potentiate an existing infection.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213942Z" creationid="alex" creationdate="20140703T213942Z">
+        <seg>La fel ca toate corpurile străine, VICRYL™ poate potenţa o infecţie existentă.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MERSILENE™ complies with the requirements of the European Pharmacopoeia for Sterile Poly (ethylene Terephthalate) Suture and the United States Pharmacopoeia for Non Absorbable Surgical Sutures (except for an occasional slight oversize in some gauges).</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213122Z" creationid="alex" creationdate="20140703T213122Z">
+        <seg>MERSILENE™ satisfac cerinţele formulate în Farmacopeea Europeană privind firele de sutură sterile din poli (etilen tereftalat) și cu cerinţele Farmacopeei SUA privind firele de sutură chirurgicală non-absorbabile (cu excepţia unei ușoare supradimensionări ocazionale pentru unele diametre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MERSILENE™ is available in a range of gauge sizes and lengths, non-needled or attached to stainless steel needles of various types and sizes.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213102Z" creationid="alex" creationdate="20140703T213102Z">
+        <seg>MERSILENE™ este disponibil într-o gamă variată de diametre și lungimi, fără ace sau atașate la ace din oţel inoxidabil de diverse tipuri și mărimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MERSILENE™ is available undyed (white) or dyed green with D &amp; C Green No.6, Colour Index No. 61565.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213058Z" creationid="alex" creationdate="20140703T213058Z">
+        <seg>MERSILENE™ este disponibil în stare nevopsită (alb) sau vopsit în verde cu  Verde D &amp; C nr. 6, codul culorii 61565.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MERSILENE™ suture elicits a minimal initial inflammatory reaction in tissue followed by a gradual encapsulation of the suture by fibrous connective tissue.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213151Z" creationid="alex" creationdate="20140703T213151Z">
+        <seg>Firele de sutură MERSILENE™ suscită o reacţie inflamatorie iniţială minimă la nivelul ţesuturilor, urmată de încapsularea treptată a suturii cu ţesut conjunctiv fibros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MERSILENE™ suture is a monofilament or braided, nonabsorbable sterile surgical suture composed of poly (ethylene terephthalate).</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213050Z" creationid="alex" creationdate="20140703T213050Z">
+        <seg>Firul de sutură MERSILENE™ este un fir de sutură steril, non-absorbabil, monofilament sau împletit, realizat din poli (etilen tereftalat).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MERSILENE™ sutures are intended for use in general soft tissue approximation and/ or ligation, including use in cardiovascular, ophthalmic and neurological procedures, and also for the fixation of soft tissue to bone tissue.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213137Z" creationid="alex" creationdate="20140703T213137Z">
+        <seg>Firele de sutură MERSILENE™ sunt indicate pentru utilizarea în intervenţiile generale de afrontare și/sau ligaturare a ţesuturilor moi, inclusiv în procedurile cardiovasculare, oftalmologice și neurologice, precum și pentru fixarea ţesutului moale de ţesutul osos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MERSILENE™ sutures are sterilized by irradiation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213331Z" creationid="alex" creationdate="20140703T213331Z">
+        <seg>Firele de sutură MERSILENE™ sunt sterilizate prin iradiere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Method of sterilization: Ethylene Oxide</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214005Z" creationid="alex" creationdate="20140703T214005Z">
+        <seg>Metoda de sterilizare: Oxid de etilenă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Method of sterilization: Ethylene Oxide or Irradiation</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214407Z" creationid="alex" creationdate="20140703T214407Z">
+        <seg>Metoda de sterilizare: oxid de etilenă sau iradiere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Method of sterilization: Irradiation</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213412Z" creationid="alex" creationdate="20140703T213412Z">
+        <seg>Metoda de sterilizare: Iradiere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None known.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213204Z" creationid="alex" creationdate="20140703T213204Z">
+        <seg>Nu se cunosc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normally the removal of the suture is not required.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214149Z" creationid="alex" creationdate="20140703T214149Z">
+        <seg>În mod normal, nu este necesară scoaterea firelor de sutură.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PERFORMANCE</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213148Z" creationid="alex" creationdate="20140703T213148Z">
+        <seg>PERFORMANŢĂ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Polyglactin 910 copolymer and Polyglactin 370 with calcium stearate have been found to be nonantigenic, nonpyrogenic and elicit only a slight tissue reaction during absorption.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213609Z" creationid="alex" creationdate="20140703T213609Z">
+        <seg>Copolimerii de poliglactin 910 și poliglactin 370 cu stearat de calciu s-au dovedit a fi non-antigenici, non-pirogenici, provocând doar o ușoară reacţie tisulară în timpul absorbţiei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Polyglactin 910 copolymer and its coatings have been found to be nonantigenic, nonpyrogenic and elicit only a mild tissue reaction during absorption.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214107Z" creationid="alex" creationdate="20140703T214107Z">
+        <seg>Copolimerul polyglactin 910 și straturile sale de acoperire s-au dovedit a fi non-antigenice și non-pirogene, suscitând doar o ușoară reacţie în timpul absorbţiei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Progressive loss of tensile strength and eventual absorption of VICRYL™ RAPIDE occurs by means of hydrolysis, where the copolymer degrades to glycolic and lactic acids which are subsequently absorbed and metabolized in the body.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214157Z" creationid="alex" creationdate="20140703T214157Z">
+        <seg>Pierderea progresivă a rezistenţei la tracţiune și în final absorbţia suturii VICRYL™ rapide are loc prin hidroliză, prin care copolimerul este descompus în acid glicolic și acid lactic, care apoi sunt absorbiţi şi metabolizaţi în organism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Progressive loss of tensile strength and eventual absorption of VICRYL™ sutures occurs by means of hydrolysis, where the copolymer degrades to glycolic and lactic acids which are subsequently absorbed and metabolized in the body.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213718Z" creationid="alex" creationdate="20140703T213718Z">
+        <seg>Pierderea progresivă a rezistenţei la tracţiune și, în cele din urmă, absorbţia suturii VICRYL™ are loc prin hidroliză, prin care copolimerul se descompune în acid glicolic și acid lactic, care  sunt apoi absorbite și metabolizate în organism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recommended storage conditions: Below 25° C, away from moisture and direct heat.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213349Z" creationid="alex" creationdate="20140703T213349Z">
+        <seg>Condiţii de depozitare recomandate: sub 25 °C, ferite de umezeală și căldură directă.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reshaping needles may cause them to lose strength and be less resistant to bending and breaking.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213259Z" creationid="alex" creationdate="20140703T213259Z">
+        <seg>Remodelarea acelor poate determina pierderea solidităţii, acestea devenind astfel mai puţin rezistente la îndoire sau rupere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STERILE SYNTHETIC ABSORBABLE</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214045Z" creationid="alex" creationdate="20140703T214045Z">
+        <seg>STERIL SINTETIC ABSORBABIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STERILE SYNTHETIC NON ABSORBABLE</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213040Z" creationid="alex" creationdate="20140703T213040Z">
+        <seg>STERIL SINTETIC NON-ABSORBABIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STERILITY</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213327Z" creationid="alex" creationdate="20140703T213327Z">
+        <seg>STERILITATEA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STORAGE</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213346Z" creationid="alex" creationdate="20140703T213346Z">
+        <seg>DEPOZITARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SUTURE</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213043Z" creationid="alex" creationdate="20140703T213043Z">
+        <seg>FIR DE SUTURĂ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SYMBOLS USED ON LABELLING</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213357Z" creationid="alex" creationdate="20140703T213357Z">
+        <seg>SIMBOLURI UTILIZATE PENTRU ETICHETARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See instructions for use</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213428Z" creationid="alex" creationdate="20140703T213428Z">
+        <seg>A se consulta instrucţiunile de utilizare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skin sutures which must remain in place longer than 7 days may cause localised irritation and should be snipped off or removed as indicated.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213833Z" creationid="alex" creationdate="20140703T213833Z">
+        <seg>Suturile la nivelul pielii care trebuie să rămână în poziţie pentru mai mult de 7 zile pot determina o iritaţie locală, fiind necesară scoaterea sau înlocuirea acestora, după caz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skin sutures which remain in place longer than 7 days may cause localized irritation and should be snipped off or removed as indicated.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214257Z" creationid="alex" creationdate="20140703T214257Z">
+        <seg>Suturile la nivelul pielii care trebuie să rămână în poziţie mai mult de 7 zile pot determina o iritaţie locală, fiind necesară scoaterea sau îndepărtarea acestora, după caz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sterile unless package is damaged or opened.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213407Z" creationid="alex" creationdate="20140703T213407Z">
+        <seg>Steril dacă ambalajul nu este desfăcut sau deteriorat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subcutaneous 2 tissue implantation in rats shows that no significant change in the retention of tensile strength of the suture occurs during the entire evaluation period of 180 days.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213155Z" creationid="alex" creationdate="20140703T213155Z">
+        <seg>Implantarea în ţesutul subcutanat la șobolani nu a indicat nicio modificare semnificativă a menţinerii rezistenţei la tracţiune a suturii pe întreaga perioadă de evaluare de 180 de zile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subcutaneous and intramuscular implantation studies of VICRYL™ RAPIDE in rats show that 5 days post-implantation approximately 50% of the original tensile strength remains.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214204Z" creationid="alex" creationdate="20140703T214204Z">
+        <seg>Studiile de implantare subcutanată și intramusculară a VICRYL™ rapide la șobolani au arătat că, la 5 zile după implantare se păstrează aproximativ 50% din rezistenţa originală la tracţiune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subcuticular sutures should be placed as deeply as possible to minimize the erythema and induration normally associated with the absorption process.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213846Z" creationid="alex" creationdate="20140703T213846Z">
+        <seg>Suturile subcuticulare trebuie realizate cât mai profund posibil pentru a minimiza eritemul și indurarea asociate în mod obișnuit cu procesul  de absorbţie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Surgeons should consider the in vivo performance (under PERFORMANCE section) when selecting a suture.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213810Z" creationid="alex" creationdate="20140703T213810Z">
+        <seg>La selectarea unui fir de sutură, chirurgii trebuie să ţină cont de performanţa in-vivo (prezentată  în secţiunea PERFORMANŢĂ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sutures are also available in the undyed form.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213621Z" creationid="alex" creationdate="20140703T213621Z">
+        <seg>Firele de sutură sunt disponibile și în varianta nevopsită.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sutures should be selected and implanted depending on patient condition, surgical experience, surgical technique and wound size.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213145Z" creationid="alex" creationdate="20140703T213145Z">
+        <seg>Firele de sutură trebuie selectate și utilizate în funcţie de starea pacientului, experienţa chirurgului, tehnica chirurgicală și dimensiunea plăgii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The absorption of VICRYL™ RAPIDE occurs thereafter and is essentially complete by 42 days.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214212Z" creationid="alex" creationdate="20140703T214212Z">
+        <seg>Absorbţia VICRYL™ rapide are loc ulterior și este, în principiu, încheiată după 42 de zile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The characteristic rapid loss of strength is achieved by use of a polymer material with a lower molecular weight than regular VICRYL™ (polyglactin 910) suture.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214058Z" creationid="alex" creationdate="20140703T214058Z">
+        <seg>Pierderea rapidă a rezistenţei, caracteristică, se obţine prin utilizarea unui material polimeric cu masă moleculară mai mică decât cea a materialului de sutură obișnuit VICRYL™ (poliglactin 910).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The empirical formula of the copolymer is (C2H2O2)m(C3H4O2)n.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213601Z" creationid="alex" creationdate="20140703T213601Z">
+        <seg>Formula empirică a copolimerului este (C2H2O2)m(C3H4O2)n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The empirical molecular formula of the polymer is (C10H8O4)n.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213054Z" creationid="alex" creationdate="20140703T213054Z">
+        <seg>Formula moleculară empirică a polimerului este (C10H8O4)n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The knot tensile strength of VICRYL™ RAPIDE meets USP requirements for collagen sutures as well as the requirements of the European Pharmacopoeia for ”Chorda Resorbilis Sterilis“ (except for an occasional slight oversize in some gauges).</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214127Z" creationid="alex" creationdate="20140703T214127Z">
+        <seg>Rezistenţa la întindere a nodului materialului de sutură VICRYL™ rapide satisface cerinţele USP privind suturile de colagen, precum și cerinţele Farmacopeei Europene privind „Chorda Resorbilis Sterilis” (cu excepţia unei ușoare supradimensionări ocazionale la unele mărimi).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The needles are bicolour (silver/ black) and the labelling shows MRI.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213636Z" creationid="alex" creationdate="20140703T213636Z">
+        <seg>Acele sunt bicolore (argintiu/negru) iar etichetarea indică RMN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The needles are bicolour (silver/black) and the labelling shows MRI.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213115Z" creationid="alex" creationdate="20140703T213115Z">
+        <seg>Acele sunt bicolore (argintiu/negru) iar etichetarea indică RMN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The needles may be attached permanently or as CR-needles (control release), enabling the needles to be pulled off instead of being cut off.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213106Z" creationid="alex" creationdate="20140703T213106Z">
+        <seg>Acele pot fi atașate definitiv sau în sistemul EC (eliberare controlată), ceea ce le permite să fie smulse în loc să fie tăiate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The product meets the essential requirements of Medical Device Directive 93/42/EEC</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213419Z" creationid="alex" creationdate="20140703T213419Z">
+        <seg>Acest produs corespunde cerinţelor esenţiale ale directivei 93/42/CEE privind dispozitivele medicale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The safety and effectiveness of VICRYL™ sutures in cardiovascular tissue have not been established.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213703Z" creationid="alex" creationdate="20140703T213703Z">
+        <seg>Nu a fost stabilită siguranţa și eficacitatea utilizării firelor de sutură VICRYL™ pe ţesutul cardiovascular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The use of VICRYL™ RAPIDE may be inappropriate in elderly, malnourished or debilated patients, or in patients suffering from conditions which may delay wound healing.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214316Z" creationid="alex" creationdate="20140703T214316Z">
+        <seg>Utilizarea VICRYL™ rapide ar putea fi neadecvată la pacienţii în vârstă, malnutriţi sau taraţi sau la pacienţii care suferă de afecţiuni care ar putea întârzia vindecarea plăgii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The use of additional throws is particularly appropriate when knotting any monofilament suture.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213237Z" creationid="alex" creationdate="20140703T213237Z">
+        <seg>Utilizarea unor surjeturi suplimentare este extrem de utilă mai ales atunci când se înnoadă fire de sutură monofilament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The use of additional throws may be particularly appropriate when knotting any monofilament suture.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213933Z" creationid="alex" creationdate="20140703T213933Z">
+        <seg>Utilizarea unor surjeturi suplimentare este recomandată mai ales atunci când se realizează noduri ale firelor de sutură monofilament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These sutures, being absorbable should not be used where extended approximation of tissues under stress is required.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213758Z" creationid="alex" creationdate="20140703T213758Z">
+        <seg>Fiind absorbabile, nu se recomandă utilizarea acestor fire de sutură în cazurile în care este necesară o afrontare extinsă sub tensiune a ţesuturilor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This suture may be inappropriate in elderly, malnourished or debilated patients, or in patients suffering from conditions which may delay wound healing.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213850Z" creationid="alex" creationdate="20140703T213850Z">
+        <seg>Acest fir de sutură ar putea fi neadecvat pentru pacienţii în vârstă, malnutriţi sau taraţi sau pacienţii care suferă de afecţiuni care ar putea întârzia vindecarea plăgii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under some circumstances, notably orthopaedic procedures, immobilisation of joints by external support may be employed at the discretion of the surgeon.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213839Z" creationid="alex" creationdate="20140703T213839Z">
+        <seg>În anumite circumstanţe, chirurgul poate opta pentru utilizarea unor proceduri ortopedice speciale, imobilizarea articulaţiilor printr-un suport extern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use by – year and month</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213403Z" creationid="alex" creationdate="20140703T213403Z">
+        <seg>A se utiliza până la – anul și luna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users should be familiar with surgical procedures and techniques involving absorbable sutures before employing VICRYL™ RAPIDE for wound closure, as the risk of wound dehiscence may vary with the site of application and the suture material used.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214225Z" creationid="alex" creationdate="20140703T214225Z">
+        <seg>Înainte de folosirea firelor de sutură VICRYL™ rapide pentru închiderea plăgilor, utilizatorii trebuie să fie familiarizaţi cu procedurile și tehnicile chirurgicale care implică utilizarea firelor de sutură absorbabile, deoarece riscul de dehiscenţă a plăgilor poate varia în funcţie de locul de aplicare și de materialul de sutură utilizat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users should be familiar with surgical procedures and techniques involving absorbable sutures before employing VICRYL™ suture for wound closure, as risk of wound dehiscence may vary with the site of application and the suture material used.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213805Z" creationid="alex" creationdate="20140703T213805Z">
+        <seg>Înainte de folosirea firelor de sutură VICRYL™ pentru închiderea plăgilor, utilizatorii trebuie să fie familiarizaţi cu procedurile și tehnicile chirurgicale care implică utilizarea firelor de sutură absorbabile, deoarece riscul de dehiscenţă a plăgilor poate varia în funcţie de locul de aplicare și de materialul de sutură utilizat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users should be familiar with surgical procedures and techniques involving non absorbable sutures before employing MERSILENE™ suture for wound closure, as risk of wound dehiscence may vary with the site of application and the suture material used.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213212Z" creationid="alex" creationdate="20140703T213212Z">
+        <seg>Înainte de folosirea firelor de sutură MERSILENE™ pentru închiderea plăgilor, utilizatorii trebuie să fie familiarizaţi cu procedurile și tehnicile chirurgicale care implică utilizarea firelor de sutură non-absorbabile, deoarece riscul de dehiscenţă  a plăgilor poate varia în funcţie de locul de aplicare și de materialul de sutură utilizat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users should exercise caution when handling surgical needles to avoid inadvertent needle stick injury.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213307Z" creationid="alex" creationdate="20140703T213307Z">
+        <seg>Manevrarea acelor chirurgicale trebuie realizată cu atenţie pentru a evita leziunile accidentale prin înţepare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ RAPIDE is also successfully used in ophthalmic surgery for conjunctival sutures.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214139Z" creationid="alex" creationdate="20140703T214139Z">
+        <seg>VICRYL™ rapide este, de asemenea, utilizat cu succes în chirurgia oftalmologică pentru suturile conjunctivale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ RAPIDE is available in a range of gauge sizes and lengths, non-needled or attached to stainless steel needles of varying types and sizes.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214118Z" creationid="alex" creationdate="20140703T214118Z">
+        <seg>VICRYL™ rapide este disponibil într-o gamă variată de diametre și lungimi, fără ace sau atașate la ace din oţel inoxidabil de diverse tipuri și mărimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ RAPIDE is intended for use in soft tissue approximation where only short term wound support is required and where the rapid absorption of the suture would be beneficial.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214131Z" creationid="alex" creationdate="20140703T214131Z">
+        <seg>Firul de sutură VICRYL™ rapide este destinat utilizării în procedurile de afrontare a ţesuturilor moi, în cazurile în care este necesară doar o susţinere pe termen scurt a plăgii și absorbţia rapidă a suturii ar fi benefică.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ RAPIDE suture elicits a minimal to moderate initial inflammatory tissue reaction.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214154Z" creationid="alex" creationdate="20140703T214154Z">
+        <seg>VICRYL™ rapide suscită o reacţie inflamatorie tisulară iniţială minimă până la moderată.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ RAPIDE suture is a synthetic absorbable sterile surgical suture composed of a copolymer made from 90% glycolide and 10% L-lactide.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214051Z" creationid="alex" creationdate="20140703T214051Z">
+        <seg>Firul de sutură VICRYL™ rapide este un fir de sutură chirurgicală steril, sintetic, absorbabil, fabricat dintr-un copolimer compus în proporţie de 90 % din glicolidă și 10 % din L-lactidă.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ RAPIDE suture is not for use in cardiovascular and neurological tissues.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214221Z" creationid="alex" creationdate="20140703T214221Z">
+        <seg>Firul de sutură VICRYL™ rapide nu este destinat utilizării în intervenţiile de chirurgie cardiovasculară și neurochirurgie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ RAPIDE sutures are available undyed as well as dyed by adding D&amp;C violet No. 2 (Colour Index Number 60725) during polymerisation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214114Z" creationid="alex" creationdate="20140703T214114Z">
+        <seg>Firele de sutură VICRYL™ rapide sunt vopsite prin adăugarea pigmentului violet nr. 2 D &amp; C (codul culorii 60725) în cursul polimerizării.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ RAPIDE sutures are obtained by coating the braided suture material with a copolymer composed of 90% caprolactone and 10% glycolide followed by a mixture composed of equal parts of copolymer of glycolide and lactide (polyglactin 370) and calcium stearate.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214102Z" creationid="alex" creationdate="20140703T214102Z">
+        <seg>Firele de sutură VICRYL™ rapide sunt obţinute prin acoperirea materialului de sutură împletit cu un copolimer compus din 90 % caprolactonă și 10 % glicolidă, urmat de un amestec compus în părţi egale din copolimer de glicolidă și lactidă (polyglactin 370) și stearat de calciu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ RAPIDE typically falls off 7 – 10 days post-operatively or can be wiped off subsequently with sterile gauze.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214145Z" creationid="alex" creationdate="20140703T214145Z">
+        <seg>În mod obișnuit VICRYL™ rapide se desprinde la 7–10 zile după operaţie sau poate fi îndepărtat ulterior prin ștergere cu un tifon steril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ RAPIDE undyed is sterilized by irradiation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214353Z" creationid="alex" creationdate="20140703T214353Z">
+        <seg>VICRYL™ rapide nevopsit este sterilizat prin iradiere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ RAPIDE violet is sterilized by ethylene oxide gas.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T214349Z" creationid="alex" creationdate="20140703T214349Z">
+        <seg>VICRYL™ rapide violet este sterilizat cu oxid de etilenă gazos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ complies with the requirements of the United States Pharmacopoeia for Absorbable Surgical Suture and the European Pharmacopoeia for Sterile Synthetic Absorbable Braided Sutures (except for an occasional slight oversize in some gauges).</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213649Z" creationid="alex" creationdate="20140703T213649Z">
+        <seg>VICRYL™ îndeplinește toate cerinţele Farmacopeei SUA privind firele de sutură chirurgicală absorbabile și ale Farmacopeei Europene privind firele de sutură chirurgicală sterile sintetice absorbabile împletite (cu excepţia unei ușoare supradimensionări ocazionale a unor diametre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ is available in a range of gauge sizes and lengths, non-needled or attached to stainless steel needles of varying types and sizes.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213626Z" creationid="alex" creationdate="20140703T213626Z">
+        <seg>VICRYL™ sunt disponibile într-o gamă variată de diametre și lungimi, atașate la ace din oţel inoxidabil de diverse tipuri și mărimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ suture elicits a minimal initial inflammatory reaction in tissues and ingrowth of fibrous connective tissue.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213713Z" creationid="alex" creationdate="20140703T213713Z">
+        <seg>Firele de sutură VICRYL™ exercită o reacţie iniţială inflamatorie tisulară minimă și proliferarea de ţesut conjunctiv fibros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ suture is a synthetic absorbable sterile surgical suture composed of a copolymer made from 90% glycolide and 10% L-lactide.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213555Z" creationid="alex" creationdate="20140703T213555Z">
+        <seg>Firul de sutură VICRYL™ este un fir de sutură chirurgicală sintetic, absorbabil, steril, fabricat dintr-un copolimer compus în proporţie de 90 % din glicolidă și 10 % din L-lactidă.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ sutures are dyed by adding D+C violet # 2 (Color Index number: 60725) during polymerisation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213618Z" creationid="alex" creationdate="20140703T213618Z">
+        <seg>Firele de sutură VICRYL™ sunt vopsite prin adăugarea pigmentului Violet nr. 2 D &amp; C (codul culorii 60725) în cursul polimerizării.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ sutures are intended for use in general soft tissue approximation and/or ligation, including use in ophthalmic surgery, peripheral nerve anastomosis and microsurgery for vessels less than 2 mm diameter.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213658Z" creationid="alex" creationdate="20140703T213658Z">
+        <seg>Firele de sutură VICRYL™ sunt indicate pentru utilizarea în intervenţiile generale de afrontare și/sau ligaturare a ţesuturilor moi, ceea ce include utilizarea în procedurile oftalmologice, de anastomoză a nervilor periferici și de microchirurgie a vaselor cu diametrul mai mic de 2 mm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ sutures are sterilized by ethylene oxide gas.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213948Z" creationid="alex" creationdate="20140703T213948Z">
+        <seg>Firele de sutură VICRYL™ sunt sterilizate cu gaz de oxid de etilenă.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WARNINGS/PRECAUTIONS/INT ERACTIONS</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213802Z" creationid="alex" creationdate="20140703T213802Z">
+        <seg>AVERTISMENTE / PRECAUŢII / INTERACŢIUNI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WARNINGS/PRECAUTIONS/INTERACTIONS</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213208Z" creationid="alex" creationdate="20140703T213208Z">
+        <seg>AVERTISMENTE / PRECAUŢII / INTERACŢIUNI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When handling this or any other suture material, care should be taken to avoid damage.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213853Z" creationid="alex" creationdate="20140703T213853Z">
+        <seg>Manevrarea acestor materiale de sutură precum și a oricăror altora trebuie realizată cu grijă pentru a evita deteriorarea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sterile synthetic absorbable</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20140703T213550Z" creationid="alex" creationdate="20140703T213550Z">
+        <seg>STERIL SINTETIC ABSORBABIL</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
