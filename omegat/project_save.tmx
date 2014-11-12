@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A measuring tape is provided with perirenal prosthesis codes.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T170505Z" creationid="alex" creationdate="20141112T170505Z">
+        <seg>Împreună cu codurile protezei perirenale se livrează o bandă de măsurare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A slight discolouration may occur with age, but this does not affect performance.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T095930Z" creationid="alex" creationdate="20141002T095930Z">
@@ -694,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perirenal Prosthesis: The size of the prosthesis should be carefully chosen.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T170449Z" creationid="alex" creationdate="20141112T170449Z">
+        <seg>Proteza perirenală: Dimensiunea protezei trebuie aleasă cu grijă.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Precautions</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T104505Z" creationid="alex" creationdate="20141002T104505Z">
@@ -1086,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The use of a model large enough to enable easy adjustment during surgery is recommended.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T170455Z" creationid="alex" creationdate="20141112T170455Z">
+        <seg>Se recomandăutilizarea unui model îndeajuns de mare pentru a permite ajustarea cu ușurinţă în timpul intervenţiei chirurgicale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The use of this suture is contraindicated in patients with known sensitivities or allergies to Silk.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135903Z" creationid="alex" creationdate="20140917T135903Z">
@@ -1194,6 +1218,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141112T170356Z" creationid="alex" creationdate="20141112T170356Z">
         <seg>Sacii din plasă VICRYL™ sunt disponibili în diverse mărimi, ca proteze perirenale, perisplenice și perihepatice ce cuprind organele respective.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ Mesh Bags are used to achieve hemostasis in traumatic kidney, spleen or liver lesions and in elective surgery of the respective organs.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T170438Z" creationid="alex" creationdate="20141112T170438Z">
+        <seg>Sacii din plasă VICRYL™ sunt utilizaţi pentru obţinerea hemostazei în leziunile traumatice de rinichi, splină sau ficat, precum și în chirurgia electivă a organelor respective.</seg>
       </tuv>
     </tu>
     <tu>
