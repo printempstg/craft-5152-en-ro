@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-sterile-</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T170211Z" creationid="alex" creationdate="20141112T170211Z">
+        <seg>– STERIL –</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A slight discolouration may occur with age, but this does not affect performance.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T095930Z" creationid="alex" creationdate="20141002T095930Z">
@@ -542,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INDICATION</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T170407Z" creationid="alex" creationdate="20141112T170407Z">
+        <seg>INDICAŢII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INDICATIONS</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135829Z" creationid="alex" creationdate="20140917T135829Z">
@@ -982,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The VICRYL™ Mesh is prepared from polyglactin 910, a synthetic absorbable copolymer of glycolide and lactide, derived respectively from glycolic acid and lactic acids.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T170303Z" creationid="alex" creationdate="20141112T170303Z">
+        <seg>Plasa VICRYL™ este fabricată din poliglactin 910, un copolimer sintetic absorbabil din glicolidă și lactidă, care la rândul lor sunt derivate din acid glicolic și acid lactic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The amount required depends on the nature and intensity of the haemorrhage to be stopped.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T104949Z" creationid="alex" creationdate="20141002T104949Z">
@@ -1154,6 +1178,54 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140032Z" creationid="alex" creationdate="20140917T140032Z">
         <seg>Manevrarea acelor chirurgicale trebuie realizată cu atenţie pentru a evita leziunile accidentale prin înţepare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ Mesh Bag consists of VICRYL™ Mesh tied with VICRYL™Sutures dyed and undyed.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T170230Z" creationid="alex" creationdate="20141112T170230Z">
+        <seg>Sacul din plasă VICRYL™ constă dintr-o plasă VICRYL™ legată cu fire de sutură VICRYL™, vopsite și nevopsite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ Mesh Bags are available in different sizes as perirenal, perisplenic and perihepatic prosthesis to envelop these organs.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T170356Z" creationid="alex" creationdate="20141112T170356Z">
+        <seg>Sacii din plasă VICRYL™ sunt disponibili în diverse mărimi, ca proteze perirenale, perisplenice și perihepatice ce cuprind organele respective.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ Mesh consists of undyed knitted polyglactin 910 fibers, identical in composition to those used in VICRYL™ Sutures.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T170319Z" creationid="alex" creationdate="20141112T170319Z">
+        <seg>Plasa VICRYL™ constă din fibre nevopsite, împletite, de poliglactină 910, având o compoziţie identică cu cele utilizate la firele de sutură VICRYL™.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ has been found to be inert, non antigenic, non pyrogenic and elicit only a slight tissue reaction during absorption.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T170326Z" creationid="alex" creationdate="20141112T170326Z">
+        <seg>VICRYL™ s-a dovedit a fi inert, non-antigenic, apirogen, suscitând doar o ușoară reacţie tisulară în timpul absorbţiei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vicryl™ Mesh Bag can be adapted to the form and size of either kidney, spleen or liver.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T170236Z" creationid="alex" creationdate="20141112T170236Z">
+        <seg>Sacul din plasă VICRYL™ poate fi adaptat la forma și dimensiunile rinichiului, splinei sau ficatului.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Violet Sutures are dyed by adding D &amp; C violet # 2 (Color Index Number 60725).</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T170342Z" creationid="alex" creationdate="20141112T170342Z">
+        <seg>Firele de sutură de culoare violet sunt vopsite prin adăugarea pigmentului Violet D &amp; C nr. 2 (codul culorii 60725).</seg>
       </tuv>
     </tu>
     <tu>
