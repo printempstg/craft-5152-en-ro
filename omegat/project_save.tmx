@@ -288,8 +288,8 @@
       <tuv lang="EN">
         <seg>CE-mark and Identification number of Notified Body.</seg>
       </tuv>
-      <tuv lang="RO" changeid="alex" changedate="20140917T140209Z" creationid="alex" creationdate="20140917T140209Z">
-        <seg>Marcajul CE și numărul de identificare a organului notificat.</seg>
+      <tuv lang="RO" changeid="alex" changedate="20141112T173418Z" creationid="alex" creationdate="20140917T140209Z">
+        <seg>Marcajul CE și numărul de identificare a organismului notificat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Method of sterilization: Ethylene Oxide</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T173412Z" creationid="alex" creationdate="20141112T173412Z">
+        <seg>Metoda de sterilizare: oxid de etilenă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Method of sterilization: Irradiation</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140207Z" creationid="alex" creationdate="20140917T140207Z">
@@ -1094,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sterile unless package is damaged or opened</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T173407Z" creationid="alex" creationdate="20141112T173407Z">
+        <seg>Steril dacă ambalajul nu este deteriorat sau desfăcut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sterile unless package is damaged or opened.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140206Z" creationid="alex" creationdate="20140917T140206Z">
@@ -1290,6 +1306,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140214Z" creationid="alex" creationdate="20140917T140214Z">
         <seg>Acest produs corespunde cerinţelor esenţiale ale directivei 93/42/CEE privind dispozitivele medicale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The product meets the essential requirements of Medical Device Directive 93/42/EEC</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T173423Z" creationid="alex" creationdate="20141112T173423Z">
+        <seg>Acest produs corespunde cerinţelor esenţiale ale Directivei93/42/CEE privind dispozitivele medicale</seg>
       </tuv>
     </tu>
     <tu>
