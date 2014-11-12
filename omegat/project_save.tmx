@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adverse reactions associated with the use of this device include transitory local irritation at the wound site and a transitory inflammatory foreign body response.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172907Z" creationid="alex" creationdate="20141112T172907Z">
+        <seg>Reacţiile adverse asociate cu utilizarea acestui dispozitiv includ iritaţie tranzitorie locală la nivelul plăgii și reacţie inflamatorie tranzitorie faţă de un corp străin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After SURGICEL FIBRILLAR Haemostat has been saturated with blood, it swells into a brownish or black gelatinous mass which aids in the formation of a clot, thereby serving as a haemostatic adjunct in the control of local haemorrhage.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T100029Z" creationid="alex" creationdate="20141002T100029Z">
@@ -246,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Because VICRYL™ Mesh Bag is absorbable, it should not be used where extended wound or organ support is required.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172823Z" creationid="alex" creationdate="20141112T172823Z">
+        <seg>Întrucât sacul din plasă VICRYL™ este resorbabil, nu trebuie utilizat în cazurile în care este necesară o susţinere prelungită a plăgii sau organului.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Blindness has been reported in connection with surgical repair of a lacerated left frontal lobe when SURGICEL FIBRILLAR Haemostat was placed in the anterior cranial fossa (see Warnings and Precautions).</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T104854Z" creationid="alex" creationdate="20141002T104854Z">
@@ -294,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Care should be taken to avoid compression of the major blood vessels of the organ, especially at the hilus site.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172838Z" creationid="alex" creationdate="20141112T172838Z">
+        <seg>Trebuie avut grijă să se evite comprimarea vaselor sanguine majore aferente organului, în special la nivelul hilului.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Care should be taken to avoid damage when handling surgical needles.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135932Z" creationid="alex" creationdate="20140917T135932Z">
@@ -330,6 +354,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T104712Z" creationid="alex" creationdate="20141002T104712Z">
         <seg>Instrucţiuni de utilizare în procedurile endoscopice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Discard open, unused product!</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172958Z" creationid="alex" creationdate="20141112T172958Z">
+        <seg>Aruncaţi produsele deschise și neutilizate!</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +408,8 @@
       <tuv lang="EN">
         <seg>Do not resterilize!</seg>
       </tuv>
-      <tuv lang="RO" changeid="alex" changedate="20140917T140125Z" creationid="alex" creationdate="20140917T140125Z">
-        <seg>A nu se resteriliza!</seg>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172949Z" creationid="alex" creationdate="20140917T140125Z">
+        <seg>Nu resterilizaţi!</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,8 +456,8 @@
       <tuv lang="EN">
         <seg>Do not use if package is opened or damaged!</seg>
       </tuv>
-      <tuv lang="RO" changeid="alex" changedate="20140917T140127Z" creationid="alex" creationdate="20140917T140127Z">
-        <seg>A nu se utiliza dacă ambalajul este desfăcut sau deteriorat!</seg>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172954Z" creationid="alex" creationdate="20140917T140127Z">
+        <seg>Nu se utilizează dacă ambalajul este desfăcut sau deteriorat!</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Potential adverse events may also include inflammation and potentiation of infection.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172926Z" creationid="alex" creationdate="20141112T172926Z">
+        <seg>Reacţiile adverse potenţiale pot include, de asemenea, inflamaţia și exacerbarea infecţiei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Precautions</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T104505Z" creationid="alex" creationdate="20141002T104505Z">
@@ -816,8 +856,8 @@
       <tuv lang="EN">
         <seg>Recommended storage conditions: below 25° C, away from moisture and direct heat.</seg>
       </tuv>
-      <tuv lang="RO" changeid="alex" changedate="20140917T140131Z" creationid="alex" creationdate="20140917T140131Z">
-        <seg>Condiţii de depozitare recomandate: la temperaturi mai mici de 25 °C, ferit de umezeală sau căldură directă.</seg>
+      <tuv lang="RO" changeid="alex" changedate="20141112T173018Z" creationid="alex" creationdate="20140917T140131Z">
+        <seg>Condiţii de depozitare recomandate: sub 25 °C, ferit de umezeală și căldură directă.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The mesh structure ensures the passage of liquids and the ingrowth of tissue.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172808Z" creationid="alex" creationdate="20141112T172808Z">
+        <seg>Structura plasei permite trecerea lichidelor și proliferarea ţesutului.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The needles may be attached permanently or as CR needles (control release) enabling the needles to be pulled off instead of being cut off.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135820Z" creationid="alex" creationdate="20140917T135820Z">
@@ -1414,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VICRYL™ Mesh Bag is sterilized by Ethylene Oxide.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172943Z" creationid="alex" creationdate="20141112T172943Z">
+        <seg>Sacul din plasă VICRYL™ este sterilizat cu oxid de etilenă.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VICRYL™ Mesh Bags are available in different sizes as perirenal, perisplenic and perihepatic prosthesis to envelop these organs.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141112T170356Z" creationid="alex" creationdate="20141112T170356Z">
@@ -1482,6 +1538,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135810Z" creationid="alex" creationdate="20140917T135810Z">
         <seg>Mătasea pură este disponibilă vopsită în albastru cu albastru de metilen (codul culorii 52015) sau în negru cu hemateină HCK (codul culorii 75290).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WARNINGS / PRECAUTIONS / INTERACTIONS</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172829Z" creationid="alex" creationdate="20141112T172829Z">
+        <seg>AVERTISMENTE / PRECAUŢII / INTERACŢIUNI</seg>
       </tuv>
     </tu>
     <tu>
