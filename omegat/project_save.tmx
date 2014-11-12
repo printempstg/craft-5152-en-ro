@@ -86,10 +86,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Absorption begins as a loss of tensile strength followed by a loss of mass.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172035Z" creationid="alex" creationdate="20141112T172035Z">
+        <seg>Absorbţia începe printr-o pierdere a rezistenţei la tracţiune, urmată de o pierdere a masei firului.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Absorption depends upon several factors including the amount used, degree of saturation with blood, and the tissue bed.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T100046Z" creationid="alex" creationdate="20141002T100046Z">
         <seg>Absorbţia depinde de câţiva factori inclusiv cantitatea folosită, gradul de saturare cu sânge și patul tisular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Absorption of VICRYL™ Suture is essentially complete between 56 and 70 days.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172054Z" creationid="alex" creationdate="20141112T172054Z">
+        <seg>Absorbţia firului de sutură VICRYL™ este practic completă între 56 și 70 de zile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The best effect is achieved by complete covering of kidney, spleen or liver.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172105Z" creationid="alex" creationdate="20141112T172105Z">
+        <seg>Efectul optim se obţine prin acoperirea completă a rinichiului, splinei sau ficatului.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The elasticity of ETHILOOP™ allows it to be tightened in a controlled way without injuring the tissue involved.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T142625Z" creationid="alex" creationdate="20140917T142625Z">
@@ -1398,10 +1422,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VICRYL™ Mesh bag: VICRYL™ Mesh Bag firstly ensures hemostasis of the organ then temporarily supports the newly formed tissue during the healing process without impairing the blood circulation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172100Z" creationid="alex" creationdate="20141112T172100Z">
+        <seg>Sacul din plasă VICRYL™: Sacul din plasă VICRYL™ asigură mai întâi hemostaza la nivelul organului, apoi susţine temporar ţesutul nou format în cursul procesului de vindecare, fără a îngreuna circulaţia sanguină.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VICRYL™ Mesh consists of undyed knitted polyglactin 910 fibers, identical in composition to those used in VICRYL™ Sutures.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141112T170319Z" creationid="alex" creationdate="20141112T170319Z">
         <seg>Plasa VICRYL™ constă din fibre nevopsite, împletite, de poliglactină 910, având o compoziţie identică cu cele utilizate la firele de sutură VICRYL™.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VICRYL™ Suture: All original tensile strength is lost between four and five weeks post implantation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T172048Z" creationid="alex" creationdate="20141112T172048Z">
+        <seg>Firul de sutură VICRYL™: Rezistenţa la tracţiune iniţială se pierde în întregime în decurs de patru până la cinci săptămâni de la implantare.</seg>
       </tuv>
     </tu>
     <tu>
