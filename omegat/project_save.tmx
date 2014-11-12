@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Additional VICRYL™ Sutures can be placed to avoid possible withdrawals from the two poles.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171141Z" creationid="alex" creationdate="20141112T171141Z">
+        <seg>Pot fi plasate fire de sutură VICRYL™ suplimentare, pentru a evita eventualele retrageri de la cei doi poli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adequate knot security requires the accepted surgical technique of flat and square ties, with additional throws as indicated by surgical circumstances and the experience of the surgeon.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135924Z" creationid="alex" creationdate="20140917T135924Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T100029Z" creationid="alex" creationdate="20141002T100029Z">
         <seg>Odată saturat cu sânge, hemostaticul SURGICEL FIBRILLAR se umflă, transformându-se într-o masă gelatinoasă de culoare maronie sau neagră care ajută la formarea unui cheag, servind astfel ca mijloc suplimentar hemostatic la controlarea hemoragiei locale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After complete fixation of the mesh, projecting mesh material should be cut off.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171200Z" creationid="alex" creationdate="20141112T171200Z">
+        <seg>După încheierea procedurii de fixare a plasei, excesul de plasă trebuie îndepărtat prin tăiere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -574,10 +590,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If hemostasis is insufficient, additional sutures (continuous or interrupted) can be passed througth the prosthesis but not the capsule or the parenchyma.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171256Z" creationid="alex" creationdate="20141112T171256Z">
+        <seg>Dacă hemostaza este insuficientă, se pot introduce suturi suplimentare (continue sau întrerupte) prin proteză, dar nu și prin capsulă sau parenchim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary a Vicryl suture can be placed in the region of the hilus for additional mesh fixation.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171152Z" creationid="alex" creationdate="20141112T171152Z">
+        <seg>Dacă este necesar, se poate plasa un fir de sutură VICRYL™ suplimentar în regiunea hilului, pentru o mai bună fixare a plasei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a second step compression of the prosthesis is adjusted by clamps over both poles, the clamps are replaced by VICRYL™ Sutures which only passes the mesh but not the capsule or the parenchyma.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171135Z" creationid="alex" creationdate="20141112T171135Z">
+        <seg>În a doua etapă, compresia protezei se ajustează cu ajutorul penselor plasate la ambii poli, pensele fiind înlocuite cu fire de sutură VICRYL™ care străbat numai plasa, nu și capsula sau parenchimul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to its local haemostatic properties, SURGICEL FIBRILLAR Haemostat is bactericidal in vitro against a wide range of gram positive and gram negative organisms including aerobes and anaerobes.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T100051Z" creationid="alex" creationdate="20141002T100051Z">
         <seg>Pe lângă proprietăţile sale hemostatice locale, hemostaticul SURGICEL FIBRILLAR are acţiune bactericidă în condiţii in vitro împotriva unui spectru larg de microorganisme gram pozitive și gram negative, inclusiv aerobe și anaerobe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case of severe damage and if increased coaptation of the wound is required, the third strand can be tightened on the diaphragmatic side of the spleen.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171227Z" creationid="alex" creationdate="20141112T171227Z">
+        <seg>În cazul unui defect sever, și dacă este necesară o coaptare extinsă a plăgii, cel de-al treilea fir poate fi strâns pe faţa diafragmatică a splinei. </seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +642,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135622Z" creationid="alex" creationdate="20140917T135622Z">
         <seg>Instrucţiuni de utilizare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is recommended to start tightening the drawstrings from the falciform ligament and then to proceed to the lateral part of the lobe.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171252Z" creationid="alex" creationdate="20141112T171252Z">
+        <seg>Se recomandă strângerea firelor de tracţiune începând de la ligamentul falciform și mergând apoi către partea laterală a lobului.</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mild compression to achieve hemostasis is rapidly tolerated by the liver parenchyma.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171259Z" creationid="alex" creationdate="20141112T171259Z">
+        <seg>Compresia ușoară, necesară pentru obţinerea hemostazei, este tolerată cu ușurinţă de către parenchimul hepatic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimal amounts of SURGICEL FIBRILLAR Haemostat in appropriate size are laid on the bleeding site or held firmly against the tissues until haemostasis is obtained.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T104945Z" creationid="alex" creationdate="20141002T104945Z">
@@ -702,10 +766,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perihepatic Prosthesis: Separate mesh bag shapes for the right and left liver lobe have to be used.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171231Z" creationid="alex" creationdate="20141112T171231Z">
+        <seg>Proteza perihepatică: Trebuie utilizate plase separate, cu formă specifică, pentru lobul hepatic drept și cel stâng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Perirenal Prosthesis: The size of the prosthesis should be carefully chosen.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141112T170449Z" creationid="alex" creationdate="20141112T170449Z">
         <seg>Proteza perirenală: Dimensiunea protezei trebuie aleasă cu grijă.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Perisplenic Prosthesis: The perisplenic prosthesis is designed to envelop the spleen and to be fastened around the hilus.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171206Z" creationid="alex" creationdate="20141112T171206Z">
+        <seg>Proteza perisplenică: Proteza perisplenică are rolul de a cuprinde splina și de a fi fixată în jurul hilului.</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,6 +938,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140218Z" creationid="alex" creationdate="20140917T140218Z">
         <seg>A se consulta instrucţiunile de utilizare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Signs of cholestasis, cytolysis and impaired blood circulation as well as adequate liver function parameters have to be observed at a reasonable time scale postoperatively.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171304Z" creationid="alex" creationdate="20141112T171304Z">
+        <seg>Postoperator, se impune ţinerea sub observaţie pe un interval de timp rezonabil a semnelor de colestază, de citoliză și de afectare a circulaţiei sanguine, precum și a parametrilor funcţiei hepatice adecvate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,10 +1142,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The gastric face of the spleen must be dissected free.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171211Z" creationid="alex" creationdate="20141112T171211Z">
+        <seg>Faţa gastrică a splinei trebuie eliberată prin disecţie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The haemostatic effect of SURGICEL FIBRILLAR Haemostat is particularly pronounced when used dry.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20141002T104953Z" creationid="alex" creationdate="20141002T104953Z">
         <seg>Efectul hemostatic al hemostaticului SURGICEL FIBRILLAR este mai pronunţat atunci când acesta este utilizat în stare uscată.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The injured liver lobe is freed from its peritoneal attachment including the coronary ligament, triangular ligament and falciform ligament.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171235Z" creationid="alex" creationdate="20141112T171235Z">
+        <seg>Lobul hepatic lezat trebuie detașat de elementele cu care se atașează de peritoneu, acestea incluzând ligamentul coronar, ligamentul triunghiular și ligamentul falciform.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1070,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The mesh should completely cover the surface of the kidney except the hilar vessels and the ureter.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171125Z" creationid="alex" creationdate="20141112T171125Z">
+        <seg>Plasa trebuie să acopere complet suprafaţa rinichiului, cu excepţia vaselor hilare și a ureterului.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The needles may be attached permanently or as CR needles (control release) enabling the needles to be pulled off instead of being cut off.</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135820Z" creationid="alex" creationdate="20140917T135820Z">
@@ -1078,10 +1190,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The perihepatic prosthesis is then positionned around the injured lobe and then wrapped around it.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171239Z" creationid="alex" creationdate="20141112T171239Z">
+        <seg>Proteza perihepatică se poziţionează apoi în jurul lobului lezat și se înfășoară în jurul acestuia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The peripheral VICRYL™ strand is placed around the hilus and tightened without compressing the hilar veins.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171218Z" creationid="alex" creationdate="20141112T171218Z">
+        <seg>Firul VICRYL™ periferic este plasat în jurul hilului și este strâns fără a fi comprimate venele hilare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The product meets the essential requirements of Medical Device Directive 93/42/EEC</seg>
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T140214Z" creationid="alex" creationdate="20140917T140214Z">
         <seg>Acest produs corespunde cerinţelor esenţiale ale directivei 93/42/CEE privind dispozitivele medicale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The prosthesis is first secured to the falciform ligament remnants by a continuous suture starting posteriorly.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171243Z" creationid="alex" creationdate="20141112T171243Z">
+        <seg>Proteza este mai întâi fixată de partea rămasă din ligamentul falciform, folosind o sutură continuă care începe din partea posterioară.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second step is to tighten the absorbable drawstrings in such a way that sufficient compression can achieve hemostasis and bilistasis.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171247Z" creationid="alex" creationdate="20141112T171247Z">
+        <seg>În a doua etapă, firele de tracţiune resorbabile sunt strânse în așa fel încât să se creeze o compresie suficientă pentru a obţine hemostaza și bilistaza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second strand is then appropriately tightened to provide adequate compression.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171223Z" creationid="alex" creationdate="20141112T171223Z">
+        <seg>Al doilea fir este apoi strâns în mod corespunzător, pentru a asigura o compresie adecvată.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1114,6 +1266,14 @@
       </tuv>
       <tuv lang="RO" changeid="alex" changedate="20140917T135903Z" creationid="alex" creationdate="20140917T135903Z">
         <seg>Este contraindicată utilizarea acestor fire de sutură la pacienţii cunoscuţi cu sensibilitate sau alergie la mătase. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The ˉVICRYL™strands facilitate placement and first adjustment.</seg>
+      </tuv>
+      <tuv lang="RO" changeid="alex" changedate="20141112T171118Z" creationid="alex" creationdate="20141112T171118Z">
+        <seg>Firele VICRYL™ facilitează amplasarea și ajustarea iniţială.</seg>
       </tuv>
     </tu>
     <tu>
